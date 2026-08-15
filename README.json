@@ -19,7 +19,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14114
+            "stars": 14120
           }
         },
         {
@@ -392,7 +392,21 @@
                 "last_commit": "2025-07-24T03:37:24Z",
                 "owner": "0x4D31",
                 "repo": "galah",
-                "stars": 659
+                "stars": 660
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Krawl",
+              "description": "Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-08T09:25:34Z",
+                "owner": "BlessedRebuS",
+                "repo": "Krawl",
+                "stars": 624
               }
             },
             {
@@ -407,20 +421,6 @@
                 "owner": "mushorg",
                 "repo": "glastopf",
                 "stars": 601
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Krawl",
-              "description": "Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-08-08T09:25:34Z",
-                "owner": "BlessedRebuS",
-                "repo": "Krawl",
-                "stars": 584
               }
             },
             {
@@ -753,7 +753,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T06:38:02Z",
+                "last_commit": "2026-08-14T09:38:51Z",
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
                 "stars": 4
@@ -1333,7 +1333,7 @@
                 "last_commit": "2025-03-22T08:19:57Z",
                 "owner": "referefref",
                 "repo": "honeydet",
-                "stars": 112
+                "stars": 111
               }
             },
             {
@@ -1396,7 +1396,7 @@
                 "last_commit": "2026-08-05T22:12:03Z",
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1511
+                "stars": 1512
               }
             },
             {
@@ -1480,7 +1480,7 @@
                 "last_commit": "2026-08-13T07:52:47Z",
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 2988
+                "stars": 2989
               }
             },
             {
@@ -1934,7 +1934,7 @@
                 "last_commit": "2026-08-04T15:11:00Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9414
+                "stars": 9416
               }
             },
             {
@@ -1948,7 +1948,7 @@
                 "last_commit": "2026-08-11T07:39:18Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2145
+                "stars": 2147
               }
             }
           ]
@@ -1983,7 +1983,7 @@
                 "last_commit": "2022-01-06T01:14:11Z",
                 "owner": "BinaryDefense",
                 "repo": "artillery",
-                "stars": 1038
+                "stars": 1037
               }
             },
             {
@@ -2504,10 +2504,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T13:20:04Z",
+                "last_commit": "2026-08-14T15:51:54Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6490
+                "stars": 6491
               }
             },
             {
@@ -2549,7 +2549,7 @@
                 "last_commit": "2024-10-29T17:40:05Z",
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 675
+                "stars": 674
               }
             },
             {
@@ -3140,7 +3140,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-07T19:43:21Z",
+                "last_commit": "2026-08-14T19:43:15Z",
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 212
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:18:27.215Z",
+    "last_updated": "2026-08-15T04:07:11.707Z",
     "original_repository": "paralax/awesome-honeypots",
     "original_repository_sha": "3c734190a12313836f210d8bbde67ac5c0b79911",
     "enhanced_repository": "enhansome/enhansome-honeypots",
