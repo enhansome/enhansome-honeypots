@@ -19,7 +19,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14123
+            "stars": 14128
           }
         },
         {
@@ -58,7 +58,7 @@
                 "last_commit": "2026-04-23T00:16:58Z",
                 "owner": "cossacklabs",
                 "repo": "acra",
-                "stars": 1491
+                "stars": 1492
               }
             },
             {
@@ -364,7 +364,7 @@
                 "last_commit": "2025-12-19T22:02:41Z",
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1140
+                "stars": 1141
               }
             },
             {
@@ -406,7 +406,7 @@
                 "last_commit": "2026-08-15T16:09:31Z",
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 628
+                "stars": 631
               }
             },
             {
@@ -434,7 +434,7 @@
                 "last_commit": "2024-09-15T09:17:13Z",
                 "owner": "OWASP",
                 "repo": "Python-Honeypot",
-                "stars": 481
+                "stars": 482
               }
             },
             {
@@ -753,7 +753,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T06:49:58Z",
+                "last_commit": "2026-08-16T08:00:51Z",
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
                 "stars": 4
@@ -801,7 +801,7 @@
                     "last_commit": "2024-08-19T22:54:36Z",
                     "owner": "mushorg",
                     "repo": "tanner",
-                    "stars": 232
+                    "stars": 231
                   }
                 }
               ]
@@ -929,7 +929,7 @@
                 "last_commit": "2023-10-09T08:33:27Z",
                 "owner": "honeytrap",
                 "repo": "honeytrap",
-                "stars": 1305
+                "stars": 1306
               }
             },
             {
@@ -1396,7 +1396,7 @@
                 "last_commit": "2026-08-05T22:12:03Z",
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1512
+                "stars": 1513
               }
             },
             {
@@ -1766,7 +1766,7 @@
                 "last_commit": "2026-08-12T18:55:36Z",
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2518
+                "stars": 2519
               }
             }
           ]
@@ -1934,7 +1934,7 @@
                 "last_commit": "2026-08-04T15:11:00Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9416
+                "stars": 9418
               }
             },
             {
@@ -1945,10 +1945,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-11T07:39:18Z",
+                "last_commit": "2026-08-17T02:42:52Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2149
+                "stars": 2148
               }
             }
           ]
@@ -2472,7 +2472,7 @@
                 "last_commit": "2024-08-19T14:03:04Z",
                 "owner": "jesparza",
                 "repo": "peepdf",
-                "stars": 1461
+                "stars": 1460
               }
             }
           ]
@@ -2493,7 +2493,7 @@
                 "last_commit": "2024-06-03T13:22:10Z",
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8537
+                "stars": 8540
               }
             },
             {
@@ -2507,7 +2507,7 @@
                 "last_commit": "2026-08-14T15:51:54Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6493
+                "stars": 6492
               }
             },
             {
@@ -2521,7 +2521,7 @@
                 "last_commit": "2024-10-21T23:23:25Z",
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1739
+                "stars": 1740
               }
             },
             {
@@ -3199,7 +3199,7 @@
                 "last_commit": "2026-08-13T15:15:14Z",
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2112
+                "stars": 2113
               }
             },
             {
@@ -3591,7 +3591,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:17:58.708Z",
+    "last_updated": "2026-08-17T04:22:29.871Z",
     "original_repository": "paralax/awesome-honeypots",
     "original_repository_sha": "3c734190a12313836f210d8bbde67ac5c0b79911",
     "enhanced_repository": "enhansome/enhansome-honeypots",
