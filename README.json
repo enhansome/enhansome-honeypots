@@ -15,7 +15,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -400,7 +400,7 @@
                 "last_commit": "2025-07-24T03:37:24Z",
                 "owner": "0x4D31",
                 "repo": "galah",
-                "stars": 662
+                "stars": 663
               }
             },
             {
@@ -475,7 +475,7 @@
                 "last_commit": "2026-08-23T20:22:42Z",
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 192
+                "stars": 193
               }
             },
             {
@@ -1536,7 +1536,7 @@
                 "last_commit": "2026-08-18T16:42:37Z",
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 2997
+                "stars": 2998
               }
             },
             {
@@ -1966,7 +1966,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6203
+                "stars": 6202
               }
             },
             {
@@ -2003,7 +2003,7 @@
                 "last_commit": "2026-08-22T18:32:54Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9433
+                "stars": 9434
               }
             },
             {
@@ -2015,10 +2015,10 @@
                 "archived": false,
                 "id": 490028114,
                 "language": "Go",
-                "last_commit": "2026-08-24T02:42:50Z",
+                "last_commit": "2026-08-24T06:41:15Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2160
+                "stars": 2161
               }
             }
           ]
@@ -2040,7 +2040,7 @@
                 "last_commit": "2025-01-02T03:21:11Z",
                 "owner": "fofapro",
                 "repo": "fapro",
-                "stars": 1609
+                "stars": 1608
               }
             },
             {
@@ -2604,10 +2604,10 @@
                 "archived": false,
                 "id": 35494746,
                 "language": "Python",
-                "last_commit": "2026-08-24T01:06:30Z",
+                "last_commit": "2026-08-24T06:05:46Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6503
+                "stars": 6502
               }
             },
             {
@@ -3339,7 +3339,7 @@
                 "last_commit": "2026-08-20T13:20:14Z",
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2129
+                "stars": 2134
               }
             },
             {
@@ -3406,6 +3406,107 @@
         }
       ],
       "title": "Honeypots"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Honeyd stats",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Honeydsum.pl",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2950659,
+                "language": "C",
+                "last_commit": "2023-05-20T14:05:44Z",
+                "owner": "DataSoft",
+                "repo": "Honeyd",
+                "stars": 395
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Honeyd Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Sandbox",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dorothy2",
+              "description": "Malware/botnet analysis framework written in Ruby.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10385970,
+                "language": "Ruby",
+                "last_commit": "2023-09-26T17:12:17Z",
+                "owner": "m4rco-",
+                "repo": "dorothy2",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "libemu",
+              "description": "Shellcode emulation library, useful for shellcode detection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104056,
+                "language": "C",
+                "last_commit": "2024-03-27T14:28:03Z",
+                "owner": "buffer",
+                "repo": "libemu",
+                "stars": 154
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pylibemu",
+              "description": "Libemu Cython wrapper.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1533917,
+                "language": "Python",
+                "last_commit": "2023-11-29T16:43:29Z",
+                "owner": "buffer",
+                "repo": "pylibemu",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "imalse",
+              "description": "Integrated MALware Simulator and Emulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15084560,
+                "language": "Tcl",
+                "last_commit": "2013-12-10T17:47:53Z",
+                "owner": "jingconan",
+                "repo": "imalse",
+                "stars": 13
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Network and Artifact Analysis"
     },
     {
       "description": null,
@@ -3524,7 +3625,7 @@
                 "last_commit": "2026-08-05T03:17:41Z",
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4115
+                "stars": 4116
               }
             },
             {
@@ -3749,7 +3850,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:25:12.826Z",
+    "last_updated": "2026-08-24T13:51:07.546Z",
     "original_repository": "paralax/awesome-honeypots",
     "original_repository_id": 37659549,
     "original_repository_sha": "3c734190a12313836f210d8bbde67ac5c0b79911",
