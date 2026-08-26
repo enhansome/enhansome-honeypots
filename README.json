@@ -15,7 +15,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14153
+            "stars": 14159
           }
         },
         {
@@ -71,7 +71,7 @@
                 "last_commit": "2015-07-14T19:27:37Z",
                 "owner": "jordan-wright",
                 "repo": "elastichoney",
-                "stars": 192
+                "stars": 193
               }
             },
             {
@@ -86,7 +86,7 @@
                 "last_commit": "2015-07-14T19:27:37Z",
                 "owner": "jordan-wright",
                 "repo": "elastichoney",
-                "stars": 192
+                "stars": 193
               }
             },
             {
@@ -131,7 +131,7 @@
                 "last_commit": "2023-02-20T01:16:32Z",
                 "owner": "Plazmaz",
                 "repo": "MongoDB-HoneyProxy",
-                "stars": 91
+                "stars": 92
               }
             },
             {
@@ -146,7 +146,7 @@
                 "last_commit": "2023-02-20T01:16:32Z",
                 "owner": "Plazmaz",
                 "repo": "MongoDB-HoneyProxy",
-                "stars": 91
+                "stars": 92
               }
             },
             {
@@ -475,7 +475,7 @@
                 "last_commit": "2026-08-23T20:22:42Z",
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-02-19T10:46:23Z",
                 "owner": "eymengunay",
                 "repo": "EoHoneypotBundle",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -660,6 +660,21 @@
             },
             {
               "node_type": "item",
+              "title": "Lophiid",
+              "description": "Distributed web application honeypot to interact with large scale exploitation attempts.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 716757221,
+                "language": "Go",
+                "last_commit": "2026-04-28T17:21:42Z",
+                "owner": "mrheinen",
+                "repo": "lophiid",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
               "title": "bwpot",
               "description": "Breakable Web applications honeyPot.",
               "children": [],
@@ -671,21 +686,6 @@
                 "owner": "graneed",
                 "repo": "bwpot",
                 "stars": 29
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Lophiid",
-              "description": "Distributed web application honeypot to interact with large scale exploitation attempts.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 716757221,
-                "language": "Go",
-                "last_commit": "2026-04-28T17:21:42Z",
-                "owner": "mrheinen",
-                "repo": "lophiid",
-                "stars": 28
               }
             },
             {
@@ -787,7 +787,7 @@
                 "archived": false,
                 "id": 1216213523,
                 "language": "Python",
-                "last_commit": "2026-08-23T07:21:55Z",
+                "last_commit": "2026-08-25T07:11:15Z",
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
                 "stars": 4
@@ -931,7 +931,7 @@
                 "last_commit": "2026-05-13T03:38:53Z",
                 "owner": "GoSecure",
                 "repo": "pyrdp",
-                "stars": 1779
+                "stars": 1780
               }
             },
             {
@@ -961,7 +961,7 @@
                 "last_commit": "2023-10-09T08:33:27Z",
                 "owner": "honeytrap",
                 "repo": "honeytrap",
-                "stars": 1306
+                "stars": 1307
               }
             },
             {
@@ -991,7 +991,7 @@
                 "last_commit": "2024-08-01T13:23:27Z",
                 "owner": "DinoTools",
                 "repo": "dionaea",
-                "stars": 816
+                "stars": 817
               }
             },
             {
@@ -1447,7 +1447,7 @@
                 "last_commit": "2026-08-05T22:12:03Z",
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1518
+                "stars": 1519
               }
             },
             {
@@ -1462,7 +1462,7 @@
                 "last_commit": "2026-08-11T18:35:34Z",
                 "owner": "sjhilt",
                 "repo": "GasPot",
-                "stars": 148
+                "stars": 149
               }
             },
             {
@@ -1536,7 +1536,7 @@
                 "last_commit": "2026-08-18T16:42:37Z",
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3000
+                "stars": 3003
               }
             },
             {
@@ -1966,7 +1966,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6205
+                "stars": 6207
               }
             },
             {
@@ -2000,10 +2000,10 @@
                 "archived": false,
                 "id": 27275442,
                 "language": "Shell",
-                "last_commit": "2026-08-24T14:17:05Z",
+                "last_commit": "2026-08-25T18:28:54Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9436
+                "stars": 9443
               }
             },
             {
@@ -2592,7 +2592,7 @@
                 "last_commit": "2024-06-03T13:22:10Z",
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8543
+                "stars": 8542
               }
             },
             {
@@ -2607,7 +2607,7 @@
                 "last_commit": "2026-08-24T06:05:46Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6502
+                "stars": 6504
               }
             },
             {
@@ -2637,7 +2637,7 @@
                 "last_commit": "2023-11-19T21:03:37Z",
                 "owner": "desaster",
                 "repo": "kippo",
-                "stars": 1714
+                "stars": 1715
               }
             },
             {
@@ -2652,7 +2652,7 @@
                 "last_commit": "2024-10-29T17:40:05Z",
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 675
+                "stars": 677
               }
             },
             {
@@ -2667,7 +2667,7 @@
                 "last_commit": "2022-01-02T10:08:37Z",
                 "owner": "tnich",
                 "repo": "honssh",
-                "stars": 371
+                "stars": 372
               }
             },
             {
@@ -3302,7 +3302,7 @@
                 "last_commit": "2016-03-16T09:57:37Z",
                 "owner": "omererdem",
                 "repo": "honeything",
-                "stars": 128
+                "stars": 129
               }
             },
             {
@@ -3339,7 +3339,7 @@
                 "last_commit": "2026-08-20T13:20:14Z",
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2136
+                "stars": 2140
               }
             },
             {
@@ -3369,7 +3369,7 @@
                 "last_commit": "2022-07-13T08:08:43Z",
                 "owner": "secureworks",
                 "repo": "dcept",
-                "stars": 504
+                "stars": 505
               }
             },
             {
@@ -3548,21 +3548,6 @@
             },
             {
               "node_type": "item",
-              "title": "Django-kippo",
-              "description": "Django App for kippo SSH Honeypot.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 4928747,
-                "language": "Python",
-                "last_commit": "2012-07-09T11:12:01Z",
-                "owner": "jedie",
-                "repo": "django-kippo",
-                "stars": 13
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Wordpot-Frontend",
               "description": "Full featured script to visualize statistics from a Wordpot honeypot.",
               "children": [],
@@ -3625,7 +3610,7 @@
                 "last_commit": "2026-08-05T03:17:41Z",
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4116
+                "stars": 4118
               }
             },
             {
@@ -3850,7 +3835,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:47:31.536Z",
+    "last_updated": "2026-08-26T04:20:27.778Z",
     "original_repository": "paralax/awesome-honeypots",
     "original_repository_id": 37659549,
     "original_repository_sha": "3c734190a12313836f210d8bbde67ac5c0b79911",
