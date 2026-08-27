@@ -4,7 +4,7 @@ A curated list of awesome honeypots, plus related components and much more, divi
 
 There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](CONTRIBUTING.md).
 
-Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 500,363 | 🐛 105 | 📅 2026-08-21.
+Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 500,406 | 🐛 105 | 📅 2026-08-21.
 
 # Contents
 
@@ -285,7 +285,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 * Low interaction honeypot
 
-  * [T-Pot](https://github.com/dtag-dev-sec/tpotce) ⭐ 9,443 | 🐛 0 | 🌐 Shell | 📅 2026-08-25 - All in one honeypot appliance from telecom provider T-Mobile
+  * [T-Pot](https://github.com/dtag-dev-sec/tpotce) ⭐ 9,444 | 🐛 0 | 🌐 Shell | 📅 2026-08-25 - All in one honeypot appliance from telecom provider T-Mobile
   * [beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 2,166 | 🐛 6 | 🌐 Go | 📅 2026-08-24 - A secure honeypot framework, extremely easy to configure by yaml 🚀
   * [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
 
