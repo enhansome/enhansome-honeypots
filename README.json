@@ -15,8 +15,9 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14158
-          }
+            "stars": 14161
+          },
+          "first_seen": "2026-08-28T15:38:22.885Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
             "stars": 3415
-          }
+          },
+          "first_seen": "2026-08-28T15:38:22.885Z"
         }
       ],
       "title": "Honeypots"
@@ -57,7 +59,8 @@
                 "owner": "cossacklabs",
                 "repo": "acra",
                 "stars": 1491
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -72,7 +75,8 @@
                 "owner": "jordan-wright",
                 "repo": "elastichoney",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -87,7 +91,8 @@
                 "owner": "jordan-wright",
                 "repo": "elastichoney",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -102,7 +107,8 @@
                 "owner": "torque59",
                 "repo": "nosqlpot",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -117,7 +123,8 @@
                 "owner": "torque59",
                 "repo": "nosqlpot",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -132,7 +139,8 @@
                 "owner": "Plazmaz",
                 "repo": "MongoDB-HoneyProxy",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -147,7 +155,8 @@
                 "owner": "Plazmaz",
                 "repo": "MongoDB-HoneyProxy",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -162,7 +171,8 @@
                 "owner": "sjinks",
                 "repo": "mysql-honeypotd",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -177,7 +187,8 @@
                 "owner": "sjinks",
                 "repo": "mysql-honeypotd",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -192,7 +203,8 @@
                 "owner": "mycert",
                 "repo": "ESPot",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -207,7 +219,8 @@
                 "owner": "mycert",
                 "repo": "ESPot",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -222,7 +235,8 @@
                 "owner": "SecurityTW",
                 "repo": "delilah",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -237,7 +251,8 @@
                 "owner": "cypwnpwnsocute",
                 "repo": "RedisHoneyPot",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -252,7 +267,8 @@
                 "owner": "schmalle",
                 "repo": "MysqlPot",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -267,7 +283,8 @@
                 "owner": "schmalle",
                 "repo": "MysqlPot",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -282,7 +299,8 @@
                 "owner": "betheroot",
                 "repo": "pghoney",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -297,7 +315,8 @@
                 "owner": "betheroot",
                 "repo": "pghoney",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -312,7 +331,8 @@
                 "owner": "betheroot",
                 "repo": "sticky_elephant",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -327,7 +347,8 @@
                 "owner": "betheroot",
                 "repo": "sticky_elephant",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -349,7 +370,8 @@
                 "owner": "jeremyfritzen",
                 "repo": "Ethereum-honey-pot",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -371,7 +393,8 @@
                 "owner": "yunginnanet",
                 "repo": "HellPot",
                 "stars": 1148
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -386,7 +409,8 @@
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
                 "stars": 1085
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -401,7 +425,8 @@
                 "owner": "0x4D31",
                 "repo": "galah",
                 "stars": 663
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -416,7 +441,8 @@
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
                 "stars": 642
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -431,7 +457,8 @@
                 "owner": "mushorg",
                 "repo": "glastopf",
                 "stars": 603
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -446,7 +473,8 @@
                 "owner": "OWASP",
                 "repo": "Python-Honeypot",
                 "stars": 484
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -461,7 +489,8 @@
                 "owner": "msurguy",
                 "repo": "Honeypot",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -475,8 +504,9 @@
                 "last_commit": "2026-08-23T20:22:42Z",
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 194
-              }
+                "stars": 195
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -491,7 +521,8 @@
                 "owner": "SAP",
                 "repo": "cloud-active-defense",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -506,7 +537,8 @@
                 "owner": "Cymmetria",
                 "repo": "StrutsHoneypot",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -521,7 +553,8 @@
                 "owner": "gfoss",
                 "repo": "phpmyadmin_honeypot",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -536,7 +569,8 @@
                 "owner": "joda32",
                 "repo": "owa-honeypot",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -551,7 +585,8 @@
                 "owner": "IllusiveNetworks-Labs",
                 "repo": "WebTrap",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -566,7 +601,8 @@
                 "owner": "referefref",
                 "repo": "modpot",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -581,7 +617,8 @@
                 "owner": "d1str0",
                 "repo": "drupot",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -596,7 +633,8 @@
                 "owner": "bjeborn",
                 "repo": "basic-auth-pot",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -611,7 +649,8 @@
                 "owner": "bocajspear1",
                 "repo": "honeyhttpd",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -626,7 +665,8 @@
                 "owner": "schmalle",
                 "repo": "Nodepot",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -641,7 +681,8 @@
                 "owner": "eymengunay",
                 "repo": "EoHoneypotBundle",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -656,7 +697,8 @@
                 "owner": "mrcbax",
                 "repo": "honeyup",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -671,7 +713,8 @@
                 "owner": "mrheinen",
                 "repo": "lophiid",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -686,7 +729,8 @@
                 "owner": "graneed",
                 "repo": "bwpot",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -701,7 +745,8 @@
                 "owner": "CHH",
                 "repo": "stack-honeypot",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -716,7 +761,8 @@
                 "owner": "christophe77",
                 "repo": "express-honeypot",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -731,7 +777,8 @@
                 "owner": "freak3dot",
                 "repo": "smart-honeypot",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -746,7 +793,8 @@
                 "owner": "schmalle",
                 "repo": "Servletpot",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -761,7 +809,8 @@
                 "owner": "helospark",
                 "repo": "tomcat-manager-honeypot",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -776,7 +825,8 @@
                 "owner": "Marist-Innovation-Lab",
                 "repo": "PasitheaHoneypot",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -787,11 +837,12 @@
                 "archived": false,
                 "id": 1216213523,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:37:19Z",
+                "last_commit": "2026-08-28T07:01:07Z",
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "group",
@@ -811,7 +862,8 @@
                     "owner": "mushorg",
                     "repo": "snare",
                     "stars": 481
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:22.885Z"
                 },
                 {
                   "node_type": "item",
@@ -826,7 +878,8 @@
                     "owner": "mushorg",
                     "repo": "tanner",
                     "stars": 231
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:22.885Z"
                 }
               ]
             },
@@ -848,7 +901,8 @@
                     "owner": "gbrindisi",
                     "repo": "wordpot",
                     "stars": 189
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:22.885Z"
                 },
                 {
                   "node_type": "item",
@@ -863,7 +917,8 @@
                     "owner": "MartinIngesen",
                     "repo": "HonnyPotter",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:22.885Z"
                 },
                 {
                   "node_type": "item",
@@ -878,7 +933,8 @@
                     "owner": "freak3dot",
                     "repo": "wp-smart-honeypot",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:22.885Z"
                 },
                 {
                   "node_type": "item",
@@ -893,7 +949,8 @@
                     "owner": "kungfuguapo",
                     "repo": "HoneyPress",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:22.885Z"
                 },
                 {
                   "node_type": "item",
@@ -904,11 +961,12 @@
                     "archived": false,
                     "id": 1170272795,
                     "language": "PHP",
-                    "last_commit": "2026-08-23T00:07:40Z",
+                    "last_commit": "2026-08-28T14:51:25Z",
                     "owner": "WebDecoy",
                     "repo": "wordpress-plugin",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:22.885Z"
                 }
               ]
             }
@@ -932,7 +990,8 @@
                 "owner": "GoSecure",
                 "repo": "pyrdp",
                 "stars": 1780
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -946,8 +1005,9 @@
                 "last_commit": "2021-06-28T18:46:07Z",
                 "owner": "citronneur",
                 "repo": "rdpy",
-                "stars": 1734
-              }
+                "stars": 1735
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -962,7 +1022,8 @@
                 "owner": "honeytrap",
                 "repo": "honeytrap",
                 "stars": 1307
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -977,7 +1038,8 @@
                 "owner": "qeeqbox",
                 "repo": "honeypots",
                 "stars": 985
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -992,7 +1054,8 @@
                 "owner": "DinoTools",
                 "repo": "dionaea",
                 "stars": 817
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1007,7 +1070,8 @@
                 "owner": "foospidy",
                 "repo": "HoneyPy",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1022,7 +1086,8 @@
                 "owner": "huuck",
                 "repo": "ADBHoney",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1037,7 +1102,8 @@
                 "owner": "0xBallpoint",
                 "repo": "trapster-community",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1052,7 +1118,8 @@
                 "owner": "kryptoslogic",
                 "repo": "rdppot",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1067,7 +1134,8 @@
                 "owner": "ahoernecke",
                 "repo": "ensnare",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1082,7 +1150,8 @@
                 "owner": "aelth",
                 "repo": "ddospot",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1097,7 +1166,8 @@
                 "owner": "fygrave",
                 "repo": "honeyntp",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1112,7 +1182,8 @@
                 "owner": "alexbredo",
                 "repo": "honeypot-camera",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1127,7 +1198,8 @@
                 "owner": "rosehgal",
                 "repo": "HoneySMB",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1142,7 +1214,8 @@
                 "owner": "securitygeneration",
                 "repo": "Honeyport",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1157,7 +1230,8 @@
                 "owner": "dutchcoders",
                 "repo": "troje",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1172,7 +1246,8 @@
                 "owner": "Zeerg",
                 "repo": "helix-honeypot",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1187,7 +1262,8 @@
                 "owner": "ciscocsirt",
                 "repo": "dhp",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1202,7 +1278,8 @@
                 "owner": "alexbredo",
                 "repo": "honeypot-ftp",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1217,7 +1294,8 @@
                 "owner": "Cymmetria",
                 "repo": "weblogic_honeypot",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1232,7 +1310,8 @@
                 "owner": "Cymmetria",
                 "repo": "honeycomb_plugins",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1247,7 +1326,8 @@
                 "owner": "inguardians",
                 "repo": "toms_honeypot",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1262,7 +1342,8 @@
                 "owner": "glaslos",
                 "repo": "honeyprint",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1277,7 +1358,8 @@
                 "owner": "UHH-ISS",
                 "repo": "honeygrove",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1292,7 +1374,8 @@
                 "owner": "Cymmetria",
                 "repo": "micros_honeypot",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1307,7 +1390,8 @@
                 "owner": "christophe77",
                 "repo": "node-ftp-honeypot",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1322,7 +1406,8 @@
                 "owner": "csirtgadgets",
                 "repo": "csirtg-honeypot",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1337,7 +1422,8 @@
                 "owner": "Marist-Innovation-Lab",
                 "repo": "DolosHoneypot",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1359,7 +1445,8 @@
                 "owner": "RevengeComing",
                 "repo": "DemonHunter",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1381,7 +1468,8 @@
                 "owner": "referefref",
                 "repo": "honeydet",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1396,7 +1484,8 @@
                 "owner": "andrew-morris",
                 "repo": "kippo_detect",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1411,7 +1500,8 @@
                 "owner": "referefref",
                 "repo": "canarytokendetector",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1426,7 +1516,8 @@
                 "owner": "f0rw4rd",
                 "repo": "potsnitch",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1447,8 +1538,9 @@
                 "last_commit": "2026-08-05T22:12:03Z",
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1519
-              }
+                "stars": 1520
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1463,7 +1555,8 @@
                 "owner": "sjhilt",
                 "repo": "GasPot",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1478,7 +1571,8 @@
                 "owner": "sefcom",
                 "repo": "honeyplc",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1493,7 +1587,8 @@
                 "owner": "sk4ld",
                 "repo": "gridpot",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1515,7 +1610,8 @@
                 "owner": "HoneySat",
                 "repo": "honeysat-deploy",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1536,8 +1632,9 @@
                 "last_commit": "2026-08-18T16:42:37Z",
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3004
-              }
+                "stars": 3006
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1552,7 +1649,8 @@
                 "owner": "sa7mon",
                 "repo": "miniprint",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1567,7 +1665,8 @@
                 "owner": "ivre",
                 "repo": "masscanned",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1582,7 +1681,8 @@
                 "owner": "MalwareTech",
                 "repo": "CitrixHoneypot",
                 "stars": 119
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1597,7 +1697,8 @@
                 "owner": "thomaspatzke",
                 "repo": "Log4Pot",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1612,7 +1713,8 @@
                 "owner": "DataSoft",
                 "repo": "Nova",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1627,7 +1729,8 @@
                 "owner": "Cymmetria",
                 "repo": "ciscoasa_honeypot",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1642,7 +1745,8 @@
                 "owner": "nsmfoo",
                 "repo": "dicompot",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1657,7 +1761,8 @@
                 "owner": "schmalle",
                 "repo": "medpot",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1672,7 +1777,8 @@
                 "owner": "upa",
                 "repo": "ofpot",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1687,7 +1793,8 @@
                 "owner": "naorlivne",
                 "repo": "dshp",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1702,7 +1809,8 @@
                 "owner": "PeterGabaldon",
                 "repo": "Fortigate.VPN-SSL.Honeypot",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1724,7 +1832,8 @@
                 "owner": "pjlantz",
                 "repo": "Hale",
                 "stars": 202
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1746,7 +1855,8 @@
                 "owner": "mzweilin",
                 "repo": "IPv6-Attack-Detector",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1768,7 +1878,8 @@
                 "owner": "chaitin",
                 "repo": "mimicry",
                 "stars": 62
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1790,7 +1901,8 @@
                 "owner": "lcashdol",
                 "repo": "WAPot",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1805,7 +1917,8 @@
                 "owner": "knalli",
                 "repo": "honeypot-for-tcp-32764",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1827,7 +1940,8 @@
                 "owner": "rabbitstack",
                 "repo": "fibratus",
                 "stars": 2537
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1849,7 +1963,8 @@
                 "owner": "honeynet",
                 "repo": "ghost-usb-honeypot",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1871,7 +1986,8 @@
                 "owner": "jusafing",
                 "repo": "pnaf",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1893,7 +2009,8 @@
                 "owner": "nsmfoo",
                 "repo": "antivmdetection",
                 "stars": 778
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1908,7 +2025,8 @@
                 "owner": "hatching",
                 "repo": "vmcloak",
                 "stars": 521
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1930,7 +2048,8 @@
                 "owner": "hexgolems",
                 "repo": "schem",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1945,7 +2064,8 @@
                 "owner": "hexgolems",
                 "repo": "pint",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -1966,8 +2086,9 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6209
-              }
+                "stars": 6211
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -1982,7 +2103,8 @@
                 "owner": "honeynet",
                 "repo": "apkinspector",
                 "stars": 852
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2003,8 +2125,9 @@
                 "last_commit": "2026-08-25T18:28:54Z",
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9444
-              }
+                "stars": 9446
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2018,8 +2141,9 @@
                 "last_commit": "2026-08-24T06:41:15Z",
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2166
-              }
+                "stars": 2167
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2041,7 +2165,8 @@
                 "owner": "fofapro",
                 "repo": "fapro",
                 "stars": 1609
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2056,7 +2181,8 @@
                 "owner": "BinaryDefense",
                 "repo": "artillery",
                 "stars": 1039
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2071,7 +2197,8 @@
                 "owner": "johnnykv",
                 "repo": "heralding",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2086,7 +2213,8 @@
                 "owner": "Phype",
                 "repo": "telnet-iot-honeypot",
                 "stars": 313
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2101,7 +2229,8 @@
                 "owner": "mushorg",
                 "repo": "glutton",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2116,7 +2245,8 @@
                 "owner": "robertdavidgraham",
                 "repo": "telnetlogger",
                 "stars": 246
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2131,7 +2261,8 @@
                 "owner": "stamparm",
                 "repo": "hontel",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2146,7 +2277,8 @@
                 "owner": "Cymmetria",
                 "repo": "MTPot",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2161,7 +2293,8 @@
                 "owner": "tillmannw",
                 "repo": "honeytrap",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2176,7 +2309,8 @@
                 "owner": "jekil",
                 "repo": "UDPot",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2191,7 +2325,8 @@
                 "owner": "Mojachieee",
                 "repo": "go-HoneyPot",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2206,7 +2341,8 @@
                 "owner": "bartnv",
                 "repo": "portlurker",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2221,7 +2357,8 @@
                 "owner": "sec51",
                 "repo": "honeymail",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2236,7 +2373,8 @@
                 "owner": "utoni",
                 "repo": "potd",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2251,7 +2389,8 @@
                 "owner": "yvesago",
                 "repo": "imap-honey",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2266,7 +2405,8 @@
                 "owner": "CanadianJeff",
                 "repo": "honeywrt",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2281,7 +2421,8 @@
                 "owner": "magisterquis",
                 "repo": "vnclowpot",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2296,7 +2437,8 @@
                 "owner": "rshipp",
                 "repo": "slipm-honeypot",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2311,7 +2453,8 @@
                 "owner": "blaverick62",
                 "repo": "SIREN",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2326,7 +2469,8 @@
                 "owner": "provos",
                 "repo": "honeyd",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2341,7 +2485,8 @@
                 "owner": "kingtuna",
                 "repo": "go-emulators",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2356,7 +2501,8 @@
                 "owner": "fnzv",
                 "repo": "YAFH",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2371,7 +2517,8 @@
                 "owner": "Ziemeck",
                 "repo": "bifrozt-ansible",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2386,7 +2533,8 @@
                 "owner": "ajackal",
                 "repo": "arctic-swallow",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2401,7 +2549,8 @@
                 "owner": "balte",
                 "repo": "TelnetHoney",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2423,7 +2572,8 @@
                 "owner": "hpfeeds",
                 "repo": "hpfeeds",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2445,7 +2595,8 @@
                 "owner": "referefref",
                 "repo": "honeyfs",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2467,7 +2618,8 @@
                 "owner": "urule99",
                 "repo": "jsunpack-n",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2482,7 +2634,8 @@
                 "owner": "Masood-M",
                 "repo": "yalih",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2497,7 +2650,8 @@
                 "owner": "CERT-Polska",
                 "repo": "hsn2-bundle",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2512,7 +2666,8 @@
                 "owner": "honeynet",
                 "repo": "phoneyc",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2527,7 +2682,8 @@
                 "owner": "CERT-Polska",
                 "repo": "HSN-Capture-HPC-NG",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2549,7 +2705,8 @@
                 "owner": "mushorg",
                 "repo": "imhoneypot",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2571,7 +2728,8 @@
                 "owner": "jesparza",
                 "repo": "peepdf",
                 "stars": 1461
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -2593,7 +2751,8 @@
                 "owner": "skeeto",
                 "repo": "endlessh",
                 "stars": 8544
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2604,11 +2763,12 @@
                 "archived": false,
                 "id": 35494746,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:05:46Z",
+                "last_commit": "2026-08-27T23:58:59Z",
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6506
-              }
+                "stars": 6508
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2623,7 +2783,8 @@
                 "owner": "jaksi",
                 "repo": "sshesame",
                 "stars": 1741
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2638,7 +2799,8 @@
                 "owner": "desaster",
                 "repo": "kippo",
                 "stars": 1715
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2652,8 +2814,9 @@
                 "last_commit": "2024-10-29T17:40:05Z",
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 676
-              }
+                "stars": 675
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2668,7 +2831,8 @@
                 "owner": "tnich",
                 "repo": "honssh",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2683,7 +2847,8 @@
                 "owner": "magisterquis",
                 "repo": "sshhipot",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2698,7 +2863,8 @@
                 "owner": "ncouture",
                 "repo": "MockSSH",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2713,7 +2879,8 @@
                 "owner": "victpork",
                 "repo": "sshsyrup",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2728,7 +2895,8 @@
                 "owner": "lanjelot",
                 "repo": "twisted-honeypots",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2743,7 +2911,8 @@
                 "owner": "madirish",
                 "repo": "kojoney2",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2758,7 +2927,8 @@
                 "owner": "joshrendek",
                 "repo": "threat.gg-agent",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2773,7 +2943,8 @@
                 "owner": "traetox",
                 "repo": "sshForShits",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2788,7 +2959,8 @@
                 "owner": "fzerorubigd",
                 "repo": "go0r",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2803,7 +2975,8 @@
                 "owner": "ashmckenzie",
                 "repo": "go-sshoney",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2818,7 +2991,8 @@
                 "owner": "mdp",
                 "repo": "honeypot.go",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2833,7 +3007,8 @@
                 "owner": "amv42",
                 "repo": "sshd-honeypot",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2848,7 +3023,8 @@
                 "owner": "JustinAzoff",
                 "repo": "ssh-auth-logger",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2863,7 +3039,8 @@
                 "owner": "morian",
                 "repo": "blacknet",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2878,7 +3055,8 @@
                 "owner": "czardoz",
                 "repo": "hornet",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2893,7 +3071,8 @@
                 "owner": "sjinks",
                 "repo": "ssh-honeypotd",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2908,7 +3087,8 @@
                 "owner": "deroux",
                 "repo": "longitudinal-analysis-cowrie",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2923,7 +3103,8 @@
                 "owner": "xme",
                 "repo": "dshield-docker",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2938,7 +3119,8 @@
                 "owner": "magisterquis",
                 "repo": "sshlowpot",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2953,7 +3135,8 @@
                 "owner": "PaulMaddox",
                 "repo": "gohoney",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2968,7 +3151,8 @@
                 "owner": "ppacher",
                 "repo": "honeyssh",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2983,7 +3167,8 @@
                 "owner": "gregcmartin",
                 "repo": "Kippo_JunOS",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -2998,7 +3183,8 @@
                 "owner": "batchmcnulty",
                 "repo": "Malbait",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3013,7 +3199,8 @@
                 "owner": "Cryptix720",
                 "repo": "HUDINX",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3028,7 +3215,8 @@
                 "owner": "xlfe",
                 "repo": "cowrie2neo",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3043,7 +3231,8 @@
                 "owner": "sahilm",
                 "repo": "hived",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3065,7 +3254,8 @@
                 "owner": "phin3has",
                 "repo": "mailoney",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3080,7 +3270,8 @@
                 "owner": "shiva-spampot",
                 "repo": "shiva",
                 "stars": 140
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3095,7 +3286,8 @@
                 "owner": "miguelraulb",
                 "repo": "spamhat",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3110,7 +3302,8 @@
                 "owner": "johestephan",
                 "repo": "VerySimpleHoneypot",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3125,7 +3318,8 @@
                 "owner": "referefref",
                 "repo": "SMTPLLMPot",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3140,7 +3334,8 @@
                 "owner": "jadb",
                 "repo": "honeypot",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3162,7 +3357,8 @@
                 "owner": "andrewmichaelsmith",
                 "repo": "bluepot",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3184,7 +3380,8 @@
                 "owner": "buffer",
                 "repo": "thug",
                 "stars": 1041
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3199,7 +3396,8 @@
                 "owner": "mrschyte",
                 "repo": "dockerpot",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3214,7 +3412,8 @@
                 "owner": "MattCarothers",
                 "repo": "mhn-core-docker",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3229,7 +3428,8 @@
                 "owner": "andrewmichaelsmith",
                 "repo": "manuka",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3244,7 +3444,8 @@
                 "owner": "sreinhardt",
                 "repo": "Docker-Honeynet",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3259,7 +3460,8 @@
                 "owner": "run41",
                 "repo": "honey_ports",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3281,7 +3483,8 @@
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 212
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3303,7 +3506,8 @@
                 "owner": "omererdem",
                 "repo": "honeything",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3318,7 +3522,8 @@
                 "owner": "darkarnium",
                 "repo": "kako",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3336,11 +3541,12 @@
                 "archived": false,
                 "id": 39949815,
                 "language": "Python",
-                "last_commit": "2026-08-20T13:20:14Z",
+                "last_commit": "2026-08-28T13:08:34Z",
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2140
-              }
+                "stars": 2142
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3355,7 +3561,8 @@
                 "owner": "0x4D31",
                 "repo": "honeyLambda",
                 "stars": 525
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3370,7 +3577,8 @@
                 "owner": "secureworks",
                 "repo": "dcept",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3385,7 +3593,8 @@
                 "owner": "0x4D31",
                 "repo": "honeybits",
                 "stars": 278
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3400,7 +3609,8 @@
                 "owner": "0x4D31",
                 "repo": "honeyku",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         }
@@ -3428,7 +3638,8 @@
                 "owner": "DataSoft",
                 "repo": "Honeyd",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         }
@@ -3456,7 +3667,8 @@
                 "owner": "m4rco-",
                 "repo": "dorothy2",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3471,7 +3683,8 @@
                 "owner": "buffer",
                 "repo": "libemu",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3486,7 +3699,8 @@
                 "owner": "buffer",
                 "repo": "pylibemu",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3501,7 +3715,8 @@
                 "owner": "jingconan",
                 "repo": "imalse",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         }
@@ -3528,8 +3743,9 @@
                 "last_commit": "2018-10-18T19:00:19Z",
                 "owner": "aplura",
                 "repo": "Tango",
-                "stars": 255
-              }
+                "stars": 256
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3544,7 +3760,8 @@
                 "owner": "rubenespadas",
                 "repo": "DionaeaFR",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3559,7 +3776,8 @@
                 "owner": "GovCERT-CZ",
                 "repo": "Wordpot-Frontend",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3574,7 +3792,8 @@
                 "owner": "GovCERT-CZ",
                 "repo": "Shockpot-Frontend",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3589,7 +3808,8 @@
                 "owner": "Joss-Steward",
                 "repo": "honeypotDisplay",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3610,8 +3830,9 @@
                 "last_commit": "2026-08-05T03:17:41Z",
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4119
-              }
+                "stars": 4120
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3626,7 +3847,8 @@
                 "owner": "fw42",
                 "repo": "honeymap",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3641,7 +3863,8 @@
                 "owner": "jpyorre",
                 "repo": "IntelligentHoneyNet",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3656,7 +3879,8 @@
                 "owner": "oguzy",
                 "repo": "ovizart",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3671,7 +3895,8 @@
                 "owner": "mfontani",
                 "repo": "kippo-stats",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3686,7 +3911,8 @@
                 "owner": "ayrus",
                 "repo": "afterglow-cloud",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3701,7 +3927,8 @@
                 "owner": "yuchincheng",
                 "repo": "HpfeedsHoneyGraph",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3716,7 +3943,8 @@
                 "owner": "SneakersInc",
                 "repo": "HoneyMalt",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3731,7 +3959,8 @@
                 "owner": "hgascon",
                 "repo": "acapulco",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3746,7 +3975,8 @@
                 "owner": "katkad",
                 "repo": "Glastopf-Analytics",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             },
             {
               "node_type": "item",
@@ -3761,7 +3991,8 @@
                 "owner": "AntonSatt",
                 "repo": "SSH-Radar",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         }
@@ -3784,7 +4015,8 @@
             "owner": "andrewmichaelsmith",
             "repo": "honeypot-setup-script",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T15:38:22.885Z"
         },
         {
           "node_type": "group",
@@ -3804,7 +4036,8 @@
                 "owner": "free5ty1e",
                 "repo": "honeypotpi",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         },
@@ -3826,7 +4059,8 @@
                 "owner": "shbhmsingh72",
                 "repo": "Honeypot-Research-Papers",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
             }
           ]
         }
@@ -3835,7 +4069,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:36:19.178Z",
+    "last_updated": "2026-08-28T15:38:22.885Z",
     "original_repository_info": {
       "archived": false,
       "id": 37659549,
@@ -3843,7 +4077,7 @@
       "last_commit": "2026-06-01T14:15:45Z",
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10534
+      "stars": 10535
     },
     "original_repository_sha": "3c734190a12313836f210d8bbde67ac5c0b79911",
     "enhanced_repository": "enhansome/enhansome-honeypots",
