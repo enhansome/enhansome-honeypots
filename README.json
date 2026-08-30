@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14162,
+            "stars": 14166,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3416,
+            "stars": 3417,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -652,8 +652,8 @@
                 "id": 1113893223,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-22T12:26:38Z",
-                "open_issues": 8,
+                "last_commit": "2026-08-29T18:58:52Z",
+                "open_issues": 12,
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
                 "stars": 642,
@@ -1281,7 +1281,7 @@
                 "id": 1216213523,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T06:32:02Z",
+                "last_commit": "2026-08-30T06:27:10Z",
                 "open_issues": 1,
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
@@ -2446,7 +2446,7 @@
                 "open_issues": 13,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3006,
+                "stars": 3008,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2997,7 +2997,7 @@
                 "open_issues": 11,
                 "owner": "nsmfoo",
                 "repo": "antivmdetection",
-                "stars": 778,
+                "stars": 779,
                 "topics": [
                   "antivm",
                   "malware-analysis",
@@ -3100,7 +3100,7 @@
                 "open_issues": 45,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6214,
+                "stars": 6215,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3156,7 +3156,7 @@
                 "open_issues": 0,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9447,
+                "stars": 9449,
                 "topics": [
                   "deception",
                   "docker",
@@ -3274,7 +3274,7 @@
                 "open_issues": 25,
                 "owner": "BinaryDefense",
                 "repo": "artillery",
-                "stars": 1039,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4062,7 +4062,7 @@
                 "open_issues": 50,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8543,
+                "stars": 8544,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4083,7 +4083,7 @@
                 "open_issues": 119,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6508,
+                "stars": 6510,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4121,7 +4121,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1741,
+                "stars": 1742,
                 "topics": [
                   "go",
                   "golang",
@@ -5224,7 +5224,7 @@
                 "open_issues": 5,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2142,
+                "stars": 2143,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5614,7 +5614,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4120,
+                "stars": 4121,
                 "topics": [
                   "bro",
                   "easm",
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:24:27.961Z",
+    "last_updated": "2026-08-30T09:26:58.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5952,7 +5952,7 @@
       "open_issues": 23,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10537,
+      "stars": 10540,
       "topics": [
         "awesome",
         "awesome-list",
