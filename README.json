@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14169,
+            "stars": 14172,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3417,
+            "stars": 3418,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -541,7 +541,7 @@
                 "open_issues": 3,
                 "owner": "jeremyfritzen",
                 "repo": "Ethereum-honey-pot",
-                "stars": 14,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -569,7 +569,7 @@
                 "open_issues": 13,
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1148,
+                "stars": 1147,
                 "topics": [
                   "cross-platform",
                   "deception",
@@ -652,8 +652,8 @@
                 "id": 1113893223,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T18:26:01Z",
-                "open_issues": 11,
+                "last_commit": "2026-08-31T15:45:45Z",
+                "open_issues": 10,
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
                 "stars": 643,
@@ -767,7 +767,7 @@
                 "open_issues": 0,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 195,
+                "stars": 196,
                 "topics": [
                   "ai-bot-detection",
                   "anti-bot",
@@ -1281,7 +1281,7 @@
                 "id": 1216213523,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-31T07:07:39Z",
+                "last_commit": "2026-09-01T07:14:11Z",
                 "open_issues": 1,
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
@@ -1552,7 +1552,7 @@
                 "open_issues": 148,
                 "owner": "honeytrap",
                 "repo": "honeytrap",
-                "stars": 1307,
+                "stars": 1306,
                 "topics": [
                   "framework",
                   "honeypot",
@@ -2213,7 +2213,7 @@
                 "open_issues": 0,
                 "owner": "referefref",
                 "repo": "honeydet",
-                "stars": 111,
+                "stars": 112,
                 "topics": [
                   "cyber-threat-intelligence",
                   "deception-technology",
@@ -2316,8 +2316,8 @@
                 "id": 8904242,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-30T21:30:36Z",
-                "open_issues": 99,
+                "last_commit": "2026-08-31T21:42:24Z",
+                "open_issues": 97,
                 "owner": "mushorg",
                 "repo": "conpot",
                 "stars": 1520,
@@ -2893,7 +2893,7 @@
                 "open_issues": 42,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2537,
+                "stars": 2536,
                 "topics": [
                   "blue-team",
                   "detection-engineering",
@@ -3100,7 +3100,7 @@
                 "open_issues": 45,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6217,
+                "stars": 6221,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3156,7 +3156,7 @@
                 "open_issues": 1,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9450,
+                "stars": 9452,
                 "topics": [
                   "deception",
                   "docker",
@@ -3181,11 +3181,11 @@
                 "id": 490028114,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T08:40:03Z",
+                "last_commit": "2026-08-31T10:11:50Z",
                 "open_issues": 6,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2168,
+                "stars": 2165,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3347,7 +3347,7 @@
                 "open_issues": 23,
                 "owner": "mushorg",
                 "repo": "glutton",
-                "stars": 309,
+                "stars": 307,
                 "topics": [
                   "hacktoberfest",
                   "honeypot"
@@ -3567,34 +3567,6 @@
             },
             {
               "node_type": "item",
-              "title": "imap-honey",
-              "description": "IMAP honeypot written in Golang.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "IMAP or SMTP honeypot written in Golang",
-                "homepage": null,
-                "id": 62391747,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2022-04-22T15:38:19Z",
-                "open_issues": 0,
-                "owner": "yvesago",
-                "repo": "imap-honey",
-                "stars": 26,
-                "topics": [
-                  "golang",
-                  "honeypot",
-                  "imap",
-                  "security",
-                  "security-tools",
-                  "smtp"
-                ]
-              },
-              "first_seen": "2026-08-28T15:38:22.885Z"
-            },
-            {
-              "node_type": "item",
               "title": "HoneyWRT",
               "description": "Low interaction Python honeypot designed to mimic services or ports that might get targeted by attackers.",
               "children": [],
@@ -3611,6 +3583,34 @@
                 "repo": "honeywrt",
                 "stars": 25,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
+            },
+            {
+              "node_type": "item",
+              "title": "imap-honey",
+              "description": "IMAP honeypot written in Golang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "IMAP or SMTP honeypot written in Golang",
+                "homepage": null,
+                "id": 62391747,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2022-04-22T15:38:19Z",
+                "open_issues": 0,
+                "owner": "yvesago",
+                "repo": "imap-honey",
+                "stars": 25,
+                "topics": [
+                  "golang",
+                  "honeypot",
+                  "imap",
+                  "security",
+                  "security-tools",
+                  "smtp"
+                ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
             },
@@ -4062,7 +4062,7 @@
                 "open_issues": 50,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8544,
+                "stars": 8543,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4083,7 +4083,7 @@
                 "open_issues": 113,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6510,
+                "stars": 6512,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4121,7 +4121,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1742,
+                "stars": 1741,
                 "topics": [
                   "go",
                   "golang",
@@ -4148,7 +4148,7 @@
                 "open_issues": 83,
                 "owner": "desaster",
                 "repo": "kippo",
-                "stars": 1715,
+                "stars": 1714,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4169,7 +4169,7 @@
                 "open_issues": 11,
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 676,
+                "stars": 675,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4345,7 +4345,7 @@
                 "id": 21315149,
                 "language": "PureBasic",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T02:43:33Z",
+                "last_commit": "2026-09-01T02:56:50Z",
                 "open_issues": 1,
                 "owner": "joshrendek",
                 "repo": "threat.gg-agent",
@@ -4465,30 +4465,6 @@
             },
             {
               "node_type": "item",
-              "title": "ssh-auth-logger",
-              "description": "Low/zero interaction SSH authentication logging honeypot.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A low/zero interaction ssh authentication logging honeypot",
-                "homepage": null,
-                "id": 88217100,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-05-29T12:49:23Z",
-                "open_issues": 4,
-                "owner": "JustinAzoff",
-                "repo": "ssh-auth-logger",
-                "stars": 26,
-                "topics": [
-                  "honeynet",
-                  "ssh-server"
-                ]
-              },
-              "first_seen": "2026-08-28T15:38:22.885Z"
-            },
-            {
-              "node_type": "item",
               "title": "Blacknet",
               "description": "Multi-head SSH honeypot system.",
               "children": [],
@@ -4537,27 +4513,24 @@
             },
             {
               "node_type": "item",
-              "title": "ssh-honeypotd",
-              "description": "Low-interaction SSH honeypot written in C.",
+              "title": "ssh-auth-logger",
+              "description": "Low/zero interaction SSH authentication logging honeypot.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A low-interaction SSH honeypot written in C",
+                "description": "A low/zero interaction ssh authentication logging honeypot",
                 "homepage": null,
-                "id": 25611622,
-                "language": "C",
+                "id": 88217100,
+                "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-27T03:13:01Z",
-                "open_issues": 3,
-                "owner": "sjinks",
-                "repo": "ssh-honeypotd",
-                "stars": 20,
+                "last_commit": "2026-05-29T12:49:23Z",
+                "open_issues": 4,
+                "owner": "JustinAzoff",
+                "repo": "ssh-auth-logger",
+                "stars": 25,
                 "topics": [
-                  "honeypot",
-                  "security",
-                  "ssh",
-                  "ssh-honeypot",
-                  "ssh-honeypotd"
+                  "honeynet",
+                  "ssh-server"
                 ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4580,6 +4553,33 @@
                 "repo": "longitudinal-analysis-cowrie",
                 "stars": 19,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ssh-honeypotd",
+              "description": "Low-interaction SSH honeypot written in C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A low-interaction SSH honeypot written in C",
+                "homepage": null,
+                "id": 25611622,
+                "language": "C",
+                "license": "MIT",
+                "last_commit": "2026-08-27T03:13:01Z",
+                "open_issues": 3,
+                "owner": "sjinks",
+                "repo": "ssh-honeypotd",
+                "stars": 19,
+                "topics": [
+                  "honeypot",
+                  "security",
+                  "ssh",
+                  "ssh-honeypot",
+                  "ssh-honeypotd"
+                ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
             },
@@ -4837,7 +4837,7 @@
                 "open_issues": 9,
                 "owner": "shiva-spampot",
                 "repo": "shiva",
-                "stars": 140,
+                "stars": 136,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5220,7 +5220,7 @@
                 "id": 39949815,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T07:55:08Z",
+                "last_commit": "2026-09-01T08:32:53Z",
                 "open_issues": 5,
                 "owner": "thinkst",
                 "repo": "canarytokens",
@@ -5614,7 +5614,7 @@
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4122,
+                "stars": 4125,
                 "topics": [
                   "bro",
                   "easm",
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T10:03:31.813Z",
+    "last_updated": "2026-09-01T08:53:24.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5952,7 +5952,7 @@
       "open_issues": 23,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10539,
+      "stars": 10540,
       "topics": [
         "awesome",
         "awesome-list",
