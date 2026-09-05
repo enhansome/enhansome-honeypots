@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14179,
+            "stars": 14181,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3418,
+            "stars": 3419,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -569,7 +569,7 @@
                 "open_issues": 13,
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1150,
+                "stars": 1151,
                 "topics": [
                   "cross-platform",
                   "deception",
@@ -1610,7 +1610,7 @@
                 "open_issues": 65,
                 "owner": "DinoTools",
                 "repo": "dionaea",
-                "stars": 817,
+                "stars": 818,
                 "topics": [
                   "dionaea",
                   "honeypot",
@@ -2316,11 +2316,11 @@
                 "id": 8904242,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-31T21:42:24Z",
+                "last_commit": "2026-09-05T04:51:16Z",
                 "open_issues": 97,
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1519,
+                "stars": 1518,
                 "topics": [
                   "hacktoberfest",
                   "honeypot",
@@ -2446,7 +2446,7 @@
                 "open_issues": 13,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3012,
+                "stars": 3013,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -3097,10 +3097,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T06:49:23Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6224,
+                "stars": 6226,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3152,11 +3152,11 @@
                 "id": 27275442,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-02T18:14:24Z",
+                "last_commit": "2026-09-04T10:10:50Z",
                 "open_issues": 0,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9457,
+                "stars": 9460,
                 "topics": [
                   "deception",
                   "docker",
@@ -3181,11 +3181,11 @@
                 "id": 490028114,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-03T13:26:55Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-04T16:24:47Z",
+                "open_issues": 6,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2167,
+                "stars": 2168,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3234,7 +3234,7 @@
                 "open_issues": 14,
                 "owner": "fofapro",
                 "repo": "fapro",
-                "stars": 1610,
+                "stars": 1609,
                 "topics": [
                   "elasticsearch",
                   "ftp",
@@ -4083,7 +4083,7 @@
                 "open_issues": 117,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6515,
+                "stars": 6518,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4232,7 +4232,7 @@
                 "open_issues": 10,
                 "owner": "ncouture",
                 "repo": "MockSSH",
-                "stars": 130,
+                "stars": 129,
                 "topics": [
                   "cybersecurity",
                   "devsecops",
@@ -5114,8 +5114,8 @@
                 "id": 334776528,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T19:43:13Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T19:43:24Z",
+                "open_issues": 4,
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 211,
@@ -5220,11 +5220,11 @@
                 "id": 39949815,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T14:21:07Z",
+                "last_commit": "2026-09-04T12:21:18Z",
                 "open_issues": 5,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2153,
+                "stars": 2155,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5610,7 +5610,7 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T07:18:59Z",
+                "last_commit": "2026-09-04T19:31:14Z",
                 "open_issues": 55,
                 "owner": "ivre",
                 "repo": "ivre",
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:12:27.894Z",
+    "last_updated": "2026-09-05T07:50:45.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5952,7 +5952,7 @@
       "open_issues": 22,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10544,
+      "stars": 10546,
       "topics": [
         "awesome",
         "awesome-list",
