@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14184,
+            "stars": 14185,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3422,
+            "stars": 3421,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -265,7 +265,7 @@
                 "id": 107731618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-27T02:14:02Z",
+                "last_commit": "2026-09-10T04:11:43Z",
                 "open_issues": 0,
                 "owner": "sjinks",
                 "repo": "mysql-honeypotd",
@@ -290,7 +290,7 @@
                 "id": 107731618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-08-27T02:14:02Z",
+                "last_commit": "2026-09-10T04:11:43Z",
                 "open_issues": 0,
                 "owner": "sjinks",
                 "repo": "mysql-honeypotd",
@@ -569,7 +569,7 @@
                 "open_issues": 13,
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1155,
+                "stars": 1154,
                 "topics": [
                   "cross-platform",
                   "deception",
@@ -613,6 +613,45 @@
             },
             {
               "node_type": "item",
+              "title": "Krawl",
+              "description": "Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.",
+                "homepage": "https://demo.krawlme.com/das_dashboard",
+                "id": 1113893223,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-08T15:34:33Z",
+                "open_issues": 11,
+                "owner": "BlessedRebuS",
+                "repo": "Krawl",
+                "stars": 672,
+                "topics": [
+                  "ai",
+                  "ai-security",
+                  "alerting",
+                  "anti-crawling",
+                  "blue-team",
+                  "cloud-native",
+                  "crawler",
+                  "cybersecurity",
+                  "deception",
+                  "grafana",
+                  "honeypot",
+                  "kubernetes",
+                  "monitoring",
+                  "security",
+                  "self-hosted",
+                  "spider",
+                  "web"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
+            },
+            {
+              "node_type": "item",
               "title": "galah",
               "description": "an LLM-powered web honeypot using the OpenAI API.",
               "children": [],
@@ -636,45 +675,6 @@
                   "openai-api",
                   "security",
                   "security-tools"
-                ]
-              },
-              "first_seen": "2026-08-28T15:38:22.885Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Krawl",
-              "description": "Lightweight deception server and anti‑crawler that deploys realistic fake web applications with low‑hanging vulnerabilities and randomly generated decoy data.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Krawl is a customizable, lightweight, cloud-native web deception server and anti-crawler that creates fake web applications with low-hanging vulnerabilities using realistic, randomly generated decoy data and AI-generated HTML templates.",
-                "homepage": "https://demo.krawlme.com/das_dashboard",
-                "id": 1113893223,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-09-08T15:34:33Z",
-                "open_issues": 10,
-                "owner": "BlessedRebuS",
-                "repo": "Krawl",
-                "stars": 658,
-                "topics": [
-                  "ai",
-                  "ai-security",
-                  "alerting",
-                  "anti-crawling",
-                  "blue-team",
-                  "cloud-native",
-                  "crawler",
-                  "cybersecurity",
-                  "deception",
-                  "grafana",
-                  "honeypot",
-                  "kubernetes",
-                  "monitoring",
-                  "security",
-                  "self-hosted",
-                  "spider",
-                  "web"
                 ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -763,11 +763,11 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-09T04:08:14Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-09T18:38:17Z",
+                "open_issues": 0,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 206,
+                "stars": 207,
                 "topics": [
                   "ai-bot-detection",
                   "anti-bot",
@@ -805,7 +805,7 @@
                 "id": 774347865,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T11:32:10Z",
+                "last_commit": "2026-09-09T14:12:46Z",
                 "open_issues": 36,
                 "owner": "SAP",
                 "repo": "cloud-active-defense",
@@ -2442,11 +2442,11 @@
                 "id": 40250792,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-18T16:42:37Z",
+                "last_commit": "2026-09-09T12:34:10Z",
                 "open_issues": 13,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3022,
+                "stars": 3023,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2893,7 +2893,7 @@
                 "open_issues": 44,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2539,
+                "stars": 2541,
                 "topics": [
                   "blue-team",
                   "detection-engineering",
@@ -3156,7 +3156,7 @@
                 "open_issues": 0,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9475,
+                "stars": 9477,
                 "topics": [
                   "deception",
                   "docker",
@@ -3185,7 +3185,7 @@
                 "open_issues": 7,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2170,
+                "stars": 2171,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -4062,7 +4062,7 @@
                 "open_issues": 50,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8547,
+                "stars": 8546,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4080,10 +4080,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-07T08:27:03Z",
-                "open_issues": 86,
+                "open_issues": 87,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6525,
+                "stars": 6526,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4547,7 +4547,7 @@
                 "id": 25611622,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-09-03T23:24:41Z",
+                "last_commit": "2026-09-10T01:59:50Z",
                 "open_issues": 3,
                 "owner": "sjinks",
                 "repo": "ssh-honeypotd",
@@ -5224,7 +5224,7 @@
                 "open_issues": 5,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2158,
+                "stars": 2159,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5610,8 +5610,8 @@
                 "id": 23961941,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-05T08:27:34Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-10T07:30:58Z",
+                "open_issues": 54,
                 "owner": "ivre",
                 "repo": "ivre",
                 "stars": 4136,
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:22:03.273Z",
+    "last_updated": "2026-09-10T08:22:52.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5949,10 +5949,10 @@
       "language": "Python",
       "license": "Artistic-2.0",
       "last_commit": "2026-06-01T14:15:45Z",
-      "open_issues": 22,
+      "open_issues": 23,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10549,
+      "stars": 10551,
       "topics": [
         "awesome",
         "awesome-list",
