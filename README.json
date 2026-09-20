@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3425,
+            "stars": 3426,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -603,7 +603,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1082,
+                "stars": 1081,
                 "topics": [
                   "django",
                   "python"
@@ -623,11 +623,11 @@
                 "id": 1113893223,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T14:27:51Z",
+                "last_commit": "2026-09-19T10:48:47Z",
                 "open_issues": 6,
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 742,
+                "stars": 745,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -1281,7 +1281,7 @@
                 "id": 1216213523,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:21:18Z",
+                "last_commit": "2026-09-20T07:06:57Z",
                 "open_issues": 1,
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
@@ -2316,7 +2316,7 @@
                 "id": 8904242,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-16T19:11:06Z",
+                "last_commit": "2026-09-19T22:49:17Z",
                 "open_issues": 52,
                 "owner": "mushorg",
                 "repo": "conpot",
@@ -2491,7 +2491,7 @@
                 "open_issues": 11,
                 "owner": "ivre",
                 "repo": "masscanned",
-                "stars": 141,
+                "stars": 140,
                 "topics": [
                   "hacktoberfest",
                   "honeypot",
@@ -2717,7 +2717,7 @@
                 "open_issues": 0,
                 "owner": "PeterGabaldon",
                 "repo": "Fortigate.VPN-SSL.Honeypot",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2889,7 +2889,7 @@
                 "id": 54714794,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T19:00:44Z",
+                "last_commit": "2026-09-19T12:06:18Z",
                 "open_issues": 45,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
@@ -3096,11 +3096,11 @@
                 "id": 23953531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T07:01:22Z",
+                "last_commit": "2026-09-19T08:24:03Z",
                 "open_issues": 45,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6259,
+                "stars": 6271,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3156,7 +3156,7 @@
                 "open_issues": 0,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9503,
+                "stars": 9507,
                 "topics": [
                   "deception",
                   "docker",
@@ -3347,7 +3347,7 @@
                 "open_issues": 23,
                 "owner": "mushorg",
                 "repo": "glutton",
-                "stars": 309,
+                "stars": 310,
                 "topics": [
                   "hacktoberfest",
                   "honeypot"
@@ -5224,7 +5224,7 @@
                 "open_issues": 6,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2165,
+                "stars": 2164,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5614,7 +5614,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4149,
+                "stars": 4150,
                 "topics": [
                   "bro",
                   "easm",
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:16:21.466Z",
+    "last_updated": "2026-09-20T08:48:14.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5952,7 +5952,7 @@
       "open_issues": 29,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10564,
+      "stars": 10563,
       "topics": [
         "awesome",
         "awesome-list",
