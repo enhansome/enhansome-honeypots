@@ -4,7 +4,7 @@ A curated list of awesome honeypots, plus related components and much more, divi
 
 There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](CONTRIBUTING.md).
 
-Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02.
+Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 513,863 | 🐛 106 | 📅 2026-09-02.
 
 # Contents
 
@@ -108,7 +108,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   * [smart-honeypot](https://github.com/freak3dot/smart-honeypot) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2014-04-19 - PHP Script demonstrating a smart honey pot.
   * [Servletpot](https://github.com/schmalle/servletpot) ⭐ 17 | 🐛 0 | 🌐 Java | 📅 2013-05-12 - Web application Honeypot.
   * [tomcat-manager-honeypot](https://github.com/helospark/tomcat-manager-honeypot) ⭐ 12 | 🐛 0 | 🌐 Java | 📅 2017-08-27 - Honeypot that mimics Tomcat manager endpoints. Logs requests and saves attacker's WAR file for later study.
-  * [flux](https://github.com/andrewmichaelsmith/flux) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Dynamic Web Honeypot with Canary Token Integration that is being actively maintained by LLMs.
+  * [flux](https://github.com/andrewmichaelsmith/flux) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - Dynamic Web Honeypot with Canary Token Integration that is being actively maintained by LLMs.
   * [PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2018-04-24 - RestAPI honeypot.
   * [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
   * [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - Modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl, and Python apps.
@@ -280,7 +280,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 * Mobile Analysis Tool
 
-  * [Androguard](https://github.com/androguard/androguard) ⭐ 6,313 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Reverse engineering, Malware and goodware analysis of Android applications and more.
+  * [Androguard](https://github.com/androguard/androguard) ⭐ 6,315 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - Reverse engineering, Malware and goodware analysis of Android applications and more.
   * [APKinspector](https://github.com/honeynet/apkinspector/) ⭐ 853 | 🐛 15 | 🌐 Java | 📅 2013-02-25 - Powerful GUI tool for analysts to analyze the Android applications.
 
 * Low interaction honeypot
@@ -299,7 +299,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   * [Artillery](https://github.com/BinaryDefense/artillery) ⭐ 1,041 | 🐛 25 | 🌐 Python | 📅 2022-01-06 - Open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
   * [Heralding](https://github.com/johnnykv/heralding) ⭐ 396 | 🐛 19 | 🌐 Python | 📅 2024-05-21 - Credentials catching honeypot.
   * [telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) ⭐ 313 | 🐛 3 | 🌐 Python | 📅 2024-02-02 - Python telnet honeypot for catching botnet binaries.
-  * [glutton](https://github.com/mushorg/glutton) ⭐ 310 | 🐛 19 | 🌐 Go | 📅 2026-10-02 - All eating honeypot.
+  * [glutton](https://github.com/mushorg/glutton) ⭐ 310 | 🐛 19 | 🌐 Go | 📅 2026-10-03 - All eating honeypot.
   * [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) ⭐ 247 | 🐛 6 | 🌐 C | 📅 2017-03-05 - Telnet honeypot designed to track the Mirai botnet.
   * [Hontel](https://github.com/stamparm/hontel) ⭐ 163 | 🐛 0 | 🌐 Python | 📅 2019-03-05 - Telnet Honeypot.
   * [MTPot](https://github.com/Cymmetria/MTPot) ⭐ 106 | 🐛 0 | 🌐 Python | 📅 2017-03-20 - Open Source Telnet Honeypot, focused on Mirai malware.
@@ -397,7 +397,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 * SSH Honeypots
 
   * [endlessh](https://github.com/skeeto/endlessh) ⭐ 8,563 | 🐛 49 | 🌐 C | 📅 2024-06-03 - SSH tarpit that slowly sends an endless banner. ([docker image](https://hub.docker.com/r/linuxserver/endlessh))
-  * [Cowrie](https://github.com/cowrie/cowrie) ⭐ 6,575 | 🐛 65 | 🌐 Python | 📅 2026-10-03 - Cowrie SSH Honeypot (based on kippo).
+  * [Cowrie](https://github.com/cowrie/cowrie) ⭐ 6,575 | 🐛 63 | 🌐 Python | 📅 2026-10-03 - Cowrie SSH Honeypot (based on kippo).
   * [sshesame](https://github.com/jaksi/sshesame) ⭐ 1,744 | 🐛 17 | 🌐 Go | 📅 2024-10-21 - Fake SSH server that lets everyone in and logs their activity.
   * [Kippo](https://github.com/desaster/kippo) ⭐ 1,714 | 🐛 83 | 🌐 Python | 📅 2023-11-19 - Medium interaction SSH honeypot.
   * [ssh-honeypot](https://github.com/droberson/ssh-honeypot) ⭐ 673 | 🐛 11 | 🌐 C | 📅 2024-10-29 - Fake sshd that logs IP addresses, usernames, and passwords.
@@ -577,7 +577,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 * Visualization
 
-  * [IVRE](https://github.com/ivre/ivre) ⭐ 4,160 | 🐛 56 | 🌐 Python | 📅 2026-10-01 - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Criminalip / Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
+  * [IVRE](https://github.com/ivre/ivre) ⭐ 4,161 | 🐛 56 | 🌐 Python | 📅 2026-10-01 - Network recon framework, published by @cea-sec & @ANSSI-FR. Build your own, self-hosted and fully-controlled alternatives to Criminalip / Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more!
   * [HoneyMap](https://github.com/fw42/honeymap) ⭐ 228 | 🐛 9 | 🌐 CoffeeScript | 📅 2016-08-09 - Real-time websocket stream of GPS events on a fancy SVG world map.
   * [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2015-11-05 - Create actionable information from honeypots.
   * [ovizart](https://github.com/oguzy/ovizart) ⭐ 50 | 🐛 7 | 🌐 JavaScript | 📅 2013-04-22 - Visual analysis for network traffic.
