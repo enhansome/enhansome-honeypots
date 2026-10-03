@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14238,
+            "stars": 14237,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 15,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3430,
+            "stars": 3429,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -666,7 +666,7 @@
                 "open_issues": 6,
                 "owner": "0x4D31",
                 "repo": "galah",
-                "stars": 667,
+                "stars": 669,
                 "topics": [
                   "golang",
                   "honeypot",
@@ -1264,7 +1264,7 @@
                 "open_issues": 1,
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "canarytokens",
                   "codex",
@@ -1460,7 +1460,7 @@
                     "id": 1170272795,
                     "language": "PHP",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-26T15:10:22Z",
+                    "last_commit": "2026-10-02T23:13:02Z",
                     "open_issues": 4,
                     "owner": "WebDecoy",
                     "repo": "wordpress-plugin",
@@ -1879,8 +1879,8 @@
                 "id": 381873276,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-01T03:33:49Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-02T12:44:07Z",
+                "open_issues": 0,
                 "owner": "Zeerg",
                 "repo": "helix-honeypot",
                 "stars": 44,
@@ -2320,7 +2320,7 @@
                 "open_issues": 27,
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1531,
+                "stars": 1532,
                 "topics": [
                   "hacktoberfest",
                   "honeypot",
@@ -3152,11 +3152,11 @@
                 "id": 27275442,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T17:28:08Z",
+                "last_commit": "2026-10-02T15:53:26Z",
                 "open_issues": 0,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9551,
+                "stars": 9556,
                 "topics": [
                   "deception",
                   "docker",
@@ -3185,7 +3185,7 @@
                 "open_issues": 8,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2188,
+                "stars": 2189,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3234,7 +3234,7 @@
                 "open_issues": 14,
                 "owner": "fofapro",
                 "repo": "fapro",
-                "stars": 1610,
+                "stars": 1609,
                 "topics": [
                   "elasticsearch",
                   "ftp",
@@ -3343,8 +3343,8 @@
                 "id": 63072873,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-30T21:19:02Z",
-                "open_issues": 23,
+                "last_commit": "2026-10-02T23:07:26Z",
+                "open_issues": 19,
                 "owner": "mushorg",
                 "repo": "glutton",
                 "stars": 310,
@@ -3881,7 +3881,7 @@
             {
               "node_type": "item",
               "title": "Jsunpack-n",
-              "description": null,
+              "description": "urule99/jsunpack-n",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3965,7 +3965,7 @@
             {
               "node_type": "item",
               "title": "Capture-HPC-NG",
-              "description": null,
+              "description": "CERT-Polska/HSN-Capture-HPC-NG",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3993,7 +3993,7 @@
             {
               "node_type": "item",
               "title": "IMHoneypot",
-              "description": null,
+              "description": "mushorg/imhoneypot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4034,7 +4034,7 @@
                 "open_issues": 49,
                 "owner": "jesparza",
                 "repo": "peepdf",
-                "stars": 1464,
+                "stars": 1465,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4062,7 +4062,7 @@
                 "open_issues": 49,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8564,
+                "stars": 8563,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4079,11 +4079,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T08:59:24Z",
-                "open_issues": 67,
+                "last_commit": "2026-10-03T00:33:55Z",
+                "open_issues": 65,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6574,
+                "stars": 6575,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4169,7 +4169,7 @@
                 "open_issues": 11,
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 674,
+                "stars": 673,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4228,8 +4228,8 @@
                 "id": 7461545,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T20:09:15Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-03T01:39:16Z",
+                "open_issues": 10,
                 "owner": "ncouture",
                 "repo": "MockSSH",
                 "stars": 129,
@@ -4936,7 +4936,7 @@
             {
               "node_type": "item",
               "title": "Bluepot",
-              "description": null,
+              "description": "andrewmichaelsmith/bluepot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5114,8 +5114,8 @@
                 "id": 334776528,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T10:18:28Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-02T19:43:18Z",
+                "open_issues": 4,
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 212,
@@ -5275,7 +5275,7 @@
                 "open_issues": 4,
                 "owner": "secureworks",
                 "repo": "dcept",
-                "stars": 504,
+                "stars": 503,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5358,7 +5358,7 @@
             {
               "node_type": "item",
               "title": "Honeydsum.pl",
-              "description": null,
+              "description": "DataSoft/Honeyd",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5614,7 +5614,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4161,
+                "stars": 4160,
                 "topics": [
                   "bro",
                   "easm",
@@ -5727,7 +5727,7 @@
             {
               "node_type": "item",
               "title": "Afterglow Cloud",
-              "description": null,
+              "description": "ayrus/afterglow-cloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5861,7 +5861,7 @@
         {
           "node_type": "item",
           "title": "Honeypot (Dionaea and kippo) setup script",
-          "description": null,
+          "description": "andrewmichaelsmith/honeypot-setup-script",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:01:26.648Z",
+    "last_updated": "2026-10-03T04:48:51.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5949,10 +5949,10 @@
       "language": "Python",
       "license": "Artistic-2.0",
       "last_commit": "2026-06-01T14:15:45Z",
-      "open_issues": 31,
+      "open_issues": 30,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10577,
+      "stars": 10579,
       "topics": [
         "awesome",
         "awesome-list",
