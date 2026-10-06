@@ -3152,7 +3152,7 @@
                 "id": 27275442,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T20:22:18Z",
+                "last_commit": "2026-10-06T11:01:27Z",
                 "open_issues": 1,
                 "owner": "telekom-security",
                 "repo": "tpotce",
@@ -4079,11 +4079,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T08:51:01Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-06T10:53:55Z",
+                "open_issues": 61,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6587,
+                "stars": 6588,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:34.722Z",
+    "last_updated": "2026-10-06T11:08:35.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
