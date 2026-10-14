@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14275,
+            "stars": 14278,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 14,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3432,
+            "stars": 3433,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -569,7 +569,7 @@
                 "open_issues": 13,
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1157,
+                "stars": 1156,
                 "topics": [
                   "cross-platform",
                   "deception",
@@ -623,11 +623,11 @@
                 "id": 1113893223,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T19:46:29Z",
+                "last_commit": "2026-10-14T07:44:16Z",
                 "open_issues": 5,
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 778,
+                "stars": 782,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -716,7 +716,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Python-Honeypot",
-                "stars": 484,
+                "stars": 483,
                 "topics": [
                   "cybersecurity",
                   "deception",
@@ -763,8 +763,8 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-13T03:50:43Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-14T00:48:51Z",
+                "open_issues": 10,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
                 "stars": 221,
@@ -805,11 +805,11 @@
                 "id": 774347865,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T19:02:08Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-13T22:48:15Z",
+                "open_issues": 7,
                 "owner": "SAP",
                 "repo": "cloud-active-defense",
-                "stars": 108,
+                "stars": 109,
                 "topics": [
                   "cybersecurity",
                   "deception",
@@ -1260,7 +1260,7 @@
                 "id": 1216213523,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T06:59:21Z",
+                "last_commit": "2026-10-14T06:46:36Z",
                 "open_issues": 1,
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
@@ -1502,7 +1502,7 @@
                 "open_issues": 62,
                 "owner": "GoSecure",
                 "repo": "pyrdp",
-                "stars": 1785,
+                "stars": 1786,
                 "topics": [
                   "hacktoberfest",
                   "honeypot",
@@ -1577,7 +1577,7 @@
                 "open_issues": 14,
                 "owner": "qeeqbox",
                 "repo": "honeypots",
-                "stars": 989,
+                "stars": 988,
                 "topics": [
                   "credentials",
                   "emulator",
@@ -2569,7 +2569,7 @@
                 "open_issues": 6,
                 "owner": "DataSoft",
                 "repo": "Nova",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2889,11 +2889,11 @@
                 "id": 54714794,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T15:36:24Z",
+                "last_commit": "2026-10-14T07:21:56Z",
                 "open_issues": 43,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2553,
+                "stars": 2555,
                 "topics": [
                   "blue-team",
                   "detection-engineering",
@@ -3100,7 +3100,7 @@
                 "open_issues": 1,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6342,
+                "stars": 6348,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3156,7 +3156,7 @@
                 "open_issues": 1,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9575,
+                "stars": 9576,
                 "topics": [
                   "deception",
                   "docker",
@@ -3185,7 +3185,7 @@
                 "open_issues": 10,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2194,
+                "stars": 2195,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3234,7 +3234,7 @@
                 "open_issues": 14,
                 "owner": "fofapro",
                 "repo": "fapro",
-                "stars": 1613,
+                "stars": 1614,
                 "topics": [
                   "elasticsearch",
                   "ftp",
@@ -3274,7 +3274,7 @@
                 "open_issues": 25,
                 "owner": "BinaryDefense",
                 "repo": "artillery",
-                "stars": 1041,
+                "stars": 1040,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -3530,7 +3530,7 @@
                 "open_issues": 3,
                 "owner": "sec51",
                 "repo": "honeymail",
-                "stars": 33,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4079,11 +4079,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T01:33:00Z",
+                "last_commit": "2026-10-14T03:40:26Z",
                 "open_issues": 54,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6594,
+                "stars": 6597,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4343,9 +4343,9 @@
                 "description": "A SSH Server in Go that logs username/password combos",
                 "homepage": null,
                 "id": 21315149,
-                "language": "PureBasic",
+                "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-07T02:05:17Z",
+                "last_commit": "2026-10-13T21:38:14Z",
                 "open_issues": 1,
                 "owner": "joshrendek",
                 "repo": "threat.gg-agent",
@@ -4816,7 +4816,7 @@
                 "open_issues": 0,
                 "owner": "phin3has",
                 "repo": "mailoney",
-                "stars": 283,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4973,8 +4973,8 @@
                 "id": 3493279,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-03T10:46:20Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-14T01:46:29Z",
+                "open_issues": 2,
                 "owner": "buffer",
                 "repo": "thug",
                 "stars": 1046,
@@ -5115,7 +5115,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T19:58:50Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 212,
@@ -5245,7 +5245,7 @@
                 "open_issues": 4,
                 "owner": "0x4D31",
                 "repo": "honeyLambda",
-                "stars": 525,
+                "stars": 526,
                 "topics": [
                   "aws",
                   "deception",
@@ -5614,7 +5614,7 @@
                 "open_issues": 56,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4176,
+                "stars": 4175,
                 "topics": [
                   "bro",
                   "easm",
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:02:20.725Z",
+    "last_updated": "2026-10-14T08:59:55.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5952,7 +5952,7 @@
       "open_issues": 30,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10596,
+      "stars": 10598,
       "topics": [
         "awesome",
         "awesome-list",
