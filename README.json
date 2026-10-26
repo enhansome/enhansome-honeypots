@@ -19,7 +19,7 @@
             "open_issues": 27,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14327,
+            "stars": 14333,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -603,7 +603,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1082,
+                "stars": 1081,
                 "topics": [
                   "django",
                   "python"
@@ -627,7 +627,7 @@
                 "open_issues": 7,
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 796,
+                "stars": 809,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -763,8 +763,8 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-21T18:14:18Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-26T04:46:27Z",
+                "open_issues": 12,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
                 "stars": 227,
@@ -1260,8 +1260,8 @@
                 "id": 1216213523,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T06:45:47Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-26T06:25:44Z",
+                "open_issues": 1,
                 "owner": "andrewmichaelsmith",
                 "repo": "flux",
                 "stars": 7,
@@ -1610,7 +1610,7 @@
                 "open_issues": 65,
                 "owner": "DinoTools",
                 "repo": "dionaea",
-                "stars": 819,
+                "stars": 820,
                 "topics": [
                   "dionaea",
                   "honeypot",
@@ -2316,8 +2316,8 @@
                 "id": 8904242,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-20T10:01:17Z",
-                "open_issues": 27,
+                "last_commit": "2026-10-26T04:03:38Z",
+                "open_issues": 30,
                 "owner": "mushorg",
                 "repo": "conpot",
                 "stars": 1539,
@@ -2442,11 +2442,11 @@
                 "id": 40250792,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-25T04:35:39Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-26T09:01:08Z",
+                "open_issues": 16,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3076,
+                "stars": 3080,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2889,8 +2889,8 @@
                 "id": 54714794,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T15:08:06Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-25T19:32:49Z",
+                "open_issues": 43,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
                 "stars": 2556,
@@ -3096,11 +3096,11 @@
                 "id": 23953531,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T08:37:17Z",
+                "last_commit": "2026-10-25T09:40:31Z",
                 "open_issues": 4,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6373,
+                "stars": 6374,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3156,7 +3156,7 @@
                 "open_issues": 0,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9641,
+                "stars": 9646,
                 "topics": [
                   "deception",
                   "docker",
@@ -3185,7 +3185,7 @@
                 "open_issues": 11,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2210,
+                "stars": 2215,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3307,6 +3307,30 @@
             },
             {
               "node_type": "item",
+              "title": "glutton",
+              "description": "All eating honeypot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Generic Low Interaction Honeypot",
+                "homepage": null,
+                "id": 63072873,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-10-24T22:08:44Z",
+                "open_issues": 13,
+                "owner": "mushorg",
+                "repo": "glutton",
+                "stars": 311,
+                "topics": [
+                  "hacktoberfest",
+                  "honeypot"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
+            },
+            {
+              "node_type": "item",
               "title": "telnet-iot-honeypot",
               "description": "Python telnet honeypot for catching botnet binaries.",
               "children": [],
@@ -3327,30 +3351,6 @@
                   "honeypot",
                   "malware",
                   "telnet-server"
-                ]
-              },
-              "first_seen": "2026-08-28T15:38:22.885Z"
-            },
-            {
-              "node_type": "item",
-              "title": "glutton",
-              "description": "All eating honeypot.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Generic Low Interaction Honeypot",
-                "homepage": null,
-                "id": 63072873,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-10-24T22:08:44Z",
-                "open_issues": 13,
-                "owner": "mushorg",
-                "repo": "glutton",
-                "stars": 310,
-                "topics": [
-                  "hacktoberfest",
-                  "honeypot"
                 ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4062,7 +4062,7 @@
                 "open_issues": 49,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8564,
+                "stars": 8565,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4079,11 +4079,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T03:42:34Z",
-                "open_issues": 55,
+                "last_commit": "2026-10-26T06:06:31Z",
+                "open_issues": 62,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6621,
+                "stars": 6629,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4121,7 +4121,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1768,
+                "stars": 1770,
                 "topics": [
                   "go",
                   "golang",
@@ -4973,7 +4973,7 @@
                 "id": 3493279,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-24T08:36:52Z",
+                "last_commit": "2026-10-25T16:32:01Z",
                 "open_issues": 1,
                 "owner": "buffer",
                 "repo": "thug",
@@ -5224,7 +5224,7 @@
                 "open_issues": 6,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2229,
+                "stars": 2231,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5245,7 +5245,7 @@
                 "open_issues": 4,
                 "owner": "0x4D31",
                 "repo": "honeyLambda",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "aws",
                   "deception",
@@ -5611,10 +5611,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-23T23:43:14Z",
-                "open_issues": 64,
+                "open_issues": 66,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4187,
+                "stars": 4189,
                 "topics": [
                   "bro",
                   "easm",
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T08:41:53.476Z",
+    "last_updated": "2026-10-26T09:19:33.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5949,10 +5949,10 @@
       "language": "Python",
       "license": "Artistic-2.0",
       "last_commit": "2026-06-01T14:15:45Z",
-      "open_issues": 28,
+      "open_issues": 29,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10624,
+      "stars": 10628,
       "topics": [
         "awesome",
         "awesome-list",
