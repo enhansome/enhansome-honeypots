@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14362,
+            "stars": 14367,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 15,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3434,
+            "stars": 3437,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -569,7 +569,7 @@
                 "open_issues": 13,
                 "owner": "yunginnanet",
                 "repo": "HellPot",
-                "stars": 1168,
+                "stars": 1169,
                 "topics": [
                   "cross-platform",
                   "deception",
@@ -627,7 +627,7 @@
                 "open_issues": 6,
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 826,
+                "stars": 825,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -695,7 +695,7 @@
                 "open_issues": 1,
                 "owner": "mushorg",
                 "repo": "glastopf",
-                "stars": 603,
+                "stars": 604,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -763,11 +763,11 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T04:46:27Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-02T04:44:31Z",
+                "open_issues": 13,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 229,
+                "stars": 231,
                 "topics": [
                   "ai-bot-detection",
                   "anti-bot",
@@ -2317,7 +2317,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-31T22:14:22Z",
-                "open_issues": 32,
+                "open_issues": 35,
                 "owner": "mushorg",
                 "repo": "conpot",
                 "stars": 1539,
@@ -2446,7 +2446,7 @@
                 "open_issues": 8,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3088,
+                "stars": 3091,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2890,10 +2890,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T21:01:54Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2563,
+                "stars": 2565,
                 "topics": [
                   "blue-team",
                   "detection-engineering",
@@ -3100,7 +3100,7 @@
                 "open_issues": 4,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6396,
+                "stars": 6400,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3156,7 +3156,7 @@
                 "open_issues": 1,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9675,
+                "stars": 9684,
                 "topics": [
                   "deception",
                   "docker",
@@ -3185,7 +3185,7 @@
                 "open_issues": 11,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2225,
+                "stars": 2226,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -4079,11 +4079,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T02:48:25Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-02T06:07:37Z",
+                "open_issues": 69,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6650,
+                "stars": 6654,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4169,7 +4169,7 @@
                 "open_issues": 11,
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 673,
+                "stars": 672,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4465,33 +4465,6 @@
             },
             {
               "node_type": "item",
-              "title": "Blacknet",
-              "description": "Multi-head SSH honeypot system.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Multi-head SSH honeypot system.",
-                "homepage": null,
-                "id": 92025023,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-21T15:06:55Z",
-                "open_issues": 0,
-                "owner": "morian",
-                "repo": "blacknet",
-                "stars": 26,
-                "topics": [
-                  "database",
-                  "honeypot",
-                  "paramiko",
-                  "python",
-                  "ssh-server"
-                ]
-              },
-              "first_seen": "2026-08-28T15:38:22.885Z"
-            },
-            {
-              "node_type": "item",
               "title": "ssh-auth-logger",
               "description": "Low/zero interaction SSH authentication logging honeypot.",
               "children": [],
@@ -4509,6 +4482,33 @@
                 "stars": 26,
                 "topics": [
                   "honeynet",
+                  "ssh-server"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blacknet",
+              "description": "Multi-head SSH honeypot system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Multi-head SSH honeypot system.",
+                "homepage": null,
+                "id": 92025023,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-03-21T15:06:55Z",
+                "open_issues": 0,
+                "owner": "morian",
+                "repo": "blacknet",
+                "stars": 25,
+                "topics": [
+                  "database",
+                  "honeypot",
+                  "paramiko",
+                  "python",
                   "ssh-server"
                 ]
               },
@@ -5224,7 +5224,7 @@
                 "open_issues": 6,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2237,
+                "stars": 2238,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5940,7 +5940,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T10:46:03.776Z",
+    "last_updated": "2026-11-02T11:38:46.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5952,7 +5952,7 @@
       "open_issues": 31,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10641,
+      "stars": 10646,
       "topics": [
         "awesome",
         "awesome-list",
