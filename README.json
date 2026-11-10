@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14394,
+            "stars": 14400,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -57,10 +57,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2025-09-03T07:24:40Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3436,
+            "stars": 3437,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -89,7 +89,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-23T00:16:58Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "cossacklabs",
                 "repo": "acra",
                 "stars": 1498,
@@ -265,8 +265,8 @@
                 "id": 107731618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-08T17:45:57Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-09T19:43:12Z",
+                "open_issues": 0,
                 "owner": "sjinks",
                 "repo": "mysql-honeypotd",
                 "stars": 37,
@@ -290,8 +290,8 @@
                 "id": 107731618,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-08T17:45:57Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-09T19:43:12Z",
+                "open_issues": 0,
                 "owner": "sjinks",
                 "repo": "mysql-honeypotd",
                 "stars": 37,
@@ -623,11 +623,11 @@
                 "id": 1113893223,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T23:17:31Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-09T13:36:57Z",
+                "open_issues": 3,
                 "owner": "BlessedRebuS",
                 "repo": "Krawl",
-                "stars": 836,
+                "stars": 838,
                 "topics": [
                   "ai",
                   "ai-security",
@@ -666,7 +666,7 @@
                 "open_issues": 7,
                 "owner": "0x4D31",
                 "repo": "galah",
-                "stars": 674,
+                "stars": 675,
                 "topics": [
                   "golang",
                   "honeypot",
@@ -716,7 +716,7 @@
                 "open_issues": 26,
                 "owner": "OWASP",
                 "repo": "Python-Honeypot",
-                "stars": 483,
+                "stars": 485,
                 "topics": [
                   "cybersecurity",
                   "deception",
@@ -763,11 +763,11 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T04:46:28Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-10T02:33:40Z",
+                "open_issues": 9,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "ai-bot-detection",
                   "anti-bot",
@@ -1160,8 +1160,8 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Express honeypot for remote file inclusion (RFI) and local file inclusion (LFI).",
-                "homepage": "https://github.com/christophe77/express-honeypot",
+                "description": "Express honeypot for RFI and LFI bots: 310 fake vulnerable URLs, logs IP, geolocation and payloads. Docker bait server or app.use() middleware.",
+                "homepage": "https://www.npmjs.com/package/express-honeypot",
                 "id": 446280358,
                 "language": "JavaScript",
                 "license": "MIT",
@@ -1171,12 +1171,23 @@
                 "repo": "express-honeypot",
                 "stars": 21,
                 "topics": [
+                  "blue-team",
+                  "bot-detection",
+                  "cybersecurity",
+                  "deception",
+                  "docker",
                   "exploit",
                   "express",
+                  "express-middleware",
                   "honeypot",
+                  "intrusion-detection",
                   "lfi",
+                  "middleware",
                   "nodejs",
-                  "rfi"
+                  "rfi",
+                  "security",
+                  "threat-intelligence",
+                  "web-security"
                 ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -1460,8 +1471,8 @@
                     "id": 1170272795,
                     "language": "PHP",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-21T22:17:05Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-10T02:02:41Z",
+                    "open_issues": 2,
                     "owner": "WebDecoy",
                     "repo": "wordpress-plugin",
                     "stars": 1,
@@ -1577,7 +1588,7 @@
                 "open_issues": 14,
                 "owner": "qeeqbox",
                 "repo": "honeypots",
-                "stars": 988,
+                "stars": 989,
                 "topics": [
                   "credentials",
                   "emulator",
@@ -1635,7 +1646,7 @@
                 "open_issues": 11,
                 "owner": "foospidy",
                 "repo": "HoneyPy",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "honeypot",
                   "honeypy",
@@ -2100,7 +2111,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "nodejs ftp honeypot",
+                "description": "FTP honeypot in Node.js: logs every login and command, quarantines uploaded malware, plants honeytokens in bait files. One-line Docker image.",
                 "homepage": null,
                 "id": 660640210,
                 "language": "JavaScript",
@@ -2110,7 +2121,21 @@
                 "owner": "christophe77",
                 "repo": "node-ftp-honeypot",
                 "stars": 6,
-                "topics": []
+                "topics": [
+                  "blue-team",
+                  "cybersecurity",
+                  "deception",
+                  "docker",
+                  "ftp",
+                  "ftp-server",
+                  "honeypot",
+                  "honeytoken",
+                  "intrusion-detection",
+                  "malware-analysis",
+                  "nodejs",
+                  "security",
+                  "threat-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
             },
@@ -2209,7 +2234,7 @@
                 "id": 735848853,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T17:16:48Z",
+                "last_commit": "2026-11-10T10:20:53Z",
                 "open_issues": 0,
                 "owner": "referefref",
                 "repo": "honeydet",
@@ -2316,8 +2341,8 @@
                 "id": 8904242,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-03T18:13:33Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-09T20:46:06Z",
+                "open_issues": 32,
                 "owner": "mushorg",
                 "repo": "conpot",
                 "stars": 1541,
@@ -2446,7 +2471,7 @@
                 "open_issues": 11,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3099,
+                "stars": 3098,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2889,11 +2914,11 @@
                 "id": 54714794,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T19:44:41Z",
+                "last_commit": "2026-11-09T22:48:22Z",
                 "open_issues": 44,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2566,
+                "stars": 2567,
                 "topics": [
                   "blue-team",
                   "detection-engineering",
@@ -3100,7 +3125,7 @@
                 "open_issues": 5,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6413,
+                "stars": 6416,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3156,7 +3181,7 @@
                 "open_issues": 1,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9707,
+                "stars": 9709,
                 "topics": [
                   "deception",
                   "docker",
@@ -3185,7 +3210,7 @@
                 "open_issues": 12,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2234,
+                "stars": 2235,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3321,7 +3346,7 @@
                 "open_issues": 3,
                 "owner": "Phype",
                 "repo": "telnet-iot-honeypot",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "botnet",
                   "honeypot",
@@ -3343,7 +3368,7 @@
                 "id": 63072873,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-08T22:44:24Z",
+                "last_commit": "2026-11-09T23:28:23Z",
                 "open_issues": 13,
                 "owner": "mushorg",
                 "repo": "glutton",
@@ -4034,7 +4059,7 @@
                 "open_issues": 49,
                 "owner": "jesparza",
                 "repo": "peepdf",
-                "stars": 1468,
+                "stars": 1467,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4083,7 +4108,7 @@
                 "open_issues": 65,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6665,
+                "stars": 6667,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4169,7 +4194,7 @@
                 "open_issues": 11,
                 "owner": "droberson",
                 "repo": "ssh-honeypot",
-                "stars": 674,
+                "stars": 675,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4345,7 +4370,7 @@
                 "id": 21315149,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T17:48:40Z",
+                "last_commit": "2026-11-10T06:30:34Z",
                 "open_issues": 1,
                 "owner": "joshrendek",
                 "repo": "threat.gg-agent",
@@ -4568,8 +4593,8 @@
                 "id": 25611622,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-11-08T17:16:27Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-09T19:43:11Z",
+                "open_issues": 1,
                 "owner": "sjinks",
                 "repo": "ssh-honeypotd",
                 "stars": 19,
@@ -5245,7 +5270,7 @@
                 "open_issues": 4,
                 "owner": "0x4D31",
                 "repo": "honeyLambda",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "aws",
                   "deception",
@@ -5614,7 +5639,7 @@
                 "open_issues": 70,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4199,
+                "stars": 4201,
                 "topics": [
                   "bro",
                   "easm",
@@ -5940,7 +5965,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:02:46.667Z",
+    "last_updated": "2026-11-10T11:42:08.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5952,7 +5977,7 @@
       "open_issues": 34,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10652,
+      "stars": 10653,
       "topics": [
         "awesome",
         "awesome-list",
