@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14403,
+            "stars": 14406,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -60,7 +60,7 @@
             "open_issues": 16,
             "owner": "caesar0301",
             "repo": "awesome-pcaptools",
-            "stars": 3437,
+            "stars": 3438,
             "topics": []
           },
           "first_seen": "2026-08-28T15:38:22.885Z"
@@ -92,7 +92,7 @@
                 "open_issues": 30,
                 "owner": "cossacklabs",
                 "repo": "acra",
-                "stars": 1498,
+                "stars": 1499,
                 "topics": [
                   "crypto",
                   "cryptography",
@@ -763,11 +763,11 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T20:20:49Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-12T00:12:39Z",
+                "open_issues": 8,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 234,
+                "stars": 237,
                 "topics": [
                   "ai-bot-detection",
                   "anti-bot",
@@ -1466,18 +1466,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "WebDecoy Bot Detection — zero-config WordPress plugin for bot protection, spam prevention, and WooCommerce carding defense",
-                    "homepage": "https://webdecoy.com",
+                    "description": "Free WordPress AI traffic analytics and bot protection. See local crawler counts and identity evidence; protect forms, logins and WooCommerce checkout.",
+                    "homepage": "https://webdecoy.com/wordpress/",
                     "id": 1170272795,
                     "language": "PHP",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-10T16:14:52Z",
+                    "last_commit": "2026-11-12T01:30:17Z",
                     "open_issues": 2,
                     "owner": "WebDecoy",
                     "repo": "wordpress-plugin",
                     "stars": 1,
                     "topics": [
+                      "ai-crawlers",
+                      "ai-traffic",
                       "anti-spam",
+                      "bot-analytics",
                       "bot-detection",
                       "php",
                       "security",
@@ -2234,7 +2237,7 @@
                 "id": 735848853,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T11:03:49Z",
+                "last_commit": "2026-11-11T14:29:56Z",
                 "open_issues": 0,
                 "owner": "referefref",
                 "repo": "honeydet",
@@ -2345,7 +2348,7 @@
                 "open_issues": 32,
                 "owner": "mushorg",
                 "repo": "conpot",
-                "stars": 1541,
+                "stars": 1542,
                 "topics": [
                   "hacktoberfest",
                   "honeypot",
@@ -2467,11 +2470,11 @@
                 "id": 40250792,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T01:58:03Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-12T09:04:44Z",
+                "open_issues": 10,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3098,
+                "stars": 3103,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2918,7 +2921,7 @@
                 "open_issues": 44,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2567,
+                "stars": 2568,
                 "topics": [
                   "blue-team",
                   "detection-engineering",
@@ -3125,7 +3128,7 @@
                 "open_issues": 5,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6421,
+                "stars": 6426,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3181,7 +3184,7 @@
                 "open_issues": 1,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9713,
+                "stars": 9716,
                 "topics": [
                   "deception",
                   "docker",
@@ -3210,7 +3213,7 @@
                 "open_issues": 12,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3259,7 +3262,7 @@
                 "open_issues": 14,
                 "owner": "fofapro",
                 "repo": "fapro",
-                "stars": 1615,
+                "stars": 1614,
                 "topics": [
                   "elasticsearch",
                   "ftp",
@@ -4104,11 +4107,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T06:05:52Z",
-                "open_issues": 66,
+                "last_commit": "2026-11-12T03:30:29Z",
+                "open_issues": 61,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6669,
+                "stars": 6674,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4146,7 +4149,7 @@
                 "open_issues": 17,
                 "owner": "jaksi",
                 "repo": "sshesame",
-                "stars": 1775,
+                "stars": 1776,
                 "topics": [
                   "go",
                   "golang",
@@ -5245,11 +5248,11 @@
                 "id": 39949815,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T10:52:25Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-12T11:01:05Z",
+                "open_issues": 6,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2241,
+                "stars": 2246,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5965,7 +5968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:24:50.561Z",
+    "last_updated": "2026-11-12T11:46:07.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5977,7 +5980,7 @@
       "open_issues": 34,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10658,
+      "stars": 10664,
       "topics": [
         "awesome",
         "awesome-list",
