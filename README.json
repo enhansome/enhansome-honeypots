@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14432,
+            "stars": 14438,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -603,7 +603,7 @@
                 "open_issues": 19,
                 "owner": "dmpayton",
                 "repo": "django-admin-honeypot",
-                "stars": 1083,
+                "stars": 1084,
                 "topics": [
                   "django",
                   "python"
@@ -763,7 +763,7 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T01:40:28Z",
+                "last_commit": "2026-11-18T15:14:55Z",
                 "open_issues": 8,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
@@ -1471,7 +1471,7 @@
                     "id": 1170272795,
                     "language": "PHP",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-18T04:06:06Z",
+                    "last_commit": "2026-11-18T14:18:44Z",
                     "open_issues": 1,
                     "owner": "WebDecoy",
                     "repo": "wordpress-plugin",
@@ -1545,7 +1545,7 @@
                 "open_issues": 78,
                 "owner": "citronneur",
                 "repo": "rdpy",
-                "stars": 1734,
+                "stars": 1736,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -1675,7 +1675,7 @@
                 "open_issues": 3,
                 "owner": "huuck",
                 "repo": "ADBHoney",
-                "stars": 183,
+                "stars": 182,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -1692,8 +1692,8 @@
                 "id": 799870612,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-03T09:04:10Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-18T12:31:57Z",
+                "open_issues": 1,
                 "owner": "0xBallpoint",
                 "repo": "trapster-community",
                 "stars": 168,
@@ -2237,7 +2237,7 @@
                 "id": 735848853,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T11:46:05Z",
+                "last_commit": "2026-11-19T11:02:54Z",
                 "open_issues": 0,
                 "owner": "referefref",
                 "repo": "honeydet",
@@ -2471,10 +2471,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-17T10:57:34Z",
-                "open_issues": 14,
+                "open_issues": 17,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3118,
+                "stars": 3121,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2917,11 +2917,11 @@
                 "id": 54714794,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T19:46:55Z",
+                "last_commit": "2026-11-18T20:23:55Z",
                 "open_issues": 45,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
-                "stars": 2570,
+                "stars": 2571,
                 "topics": [
                   "blue-team",
                   "detection-engineering",
@@ -3180,11 +3180,11 @@
                 "id": 27275442,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T10:06:19Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-19T12:03:20Z",
+                "open_issues": 1,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9734,
+                "stars": 9739,
                 "topics": [
                   "deception",
                   "docker",
@@ -3213,7 +3213,7 @@
                 "open_issues": 13,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2248,
+                "stars": 2250,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -4090,7 +4090,7 @@
                 "open_issues": 49,
                 "owner": "skeeto",
                 "repo": "endlessh",
-                "stars": 8588,
+                "stars": 8589,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -4107,11 +4107,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T02:15:07Z",
+                "last_commit": "2026-11-18T17:04:52Z",
                 "open_issues": 63,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6684,
+                "stars": 6685,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -4718,29 +4718,6 @@
             },
             {
               "node_type": "item",
-              "title": "Malbait",
-              "description": "Simple TCP/UDP honeypot implemented in Perl.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Simple TCP/UDP honeypot implemented in Perl",
-                "homepage": null,
-                "id": 107891723,
-                "language": "Perl",
-                "license": null,
-                "last_commit": "2024-04-27T16:37:09Z",
-                "open_issues": 1,
-                "owner": "batchmcnulty",
-                "repo": "Malbait",
-                "stars": 9,
-                "topics": [
-                  "honeypot"
-                ]
-              },
-              "first_seen": "2026-08-28T15:38:22.885Z"
-            },
-            {
-              "node_type": "item",
               "title": "HUDINX",
               "description": "Tiny interaction SSH honeypot engineered in Python to log brute force attacks and, most importantly, the entire shell interaction performed by the attacker.",
               "children": [],
@@ -4763,6 +4740,29 @@
                   "python",
                   "website",
                   "windows"
+                ]
+              },
+              "first_seen": "2026-08-28T15:38:22.885Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Malbait",
+              "description": "Simple TCP/UDP honeypot implemented in Perl.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Simple TCP/UDP honeypot implemented in Perl",
+                "homepage": null,
+                "id": 107891723,
+                "language": "Perl",
+                "license": null,
+                "last_commit": "2024-04-27T16:37:09Z",
+                "open_issues": 1,
+                "owner": "batchmcnulty",
+                "repo": "Malbait",
+                "stars": 8,
+                "topics": [
+                  "honeypot"
                 ]
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5001,7 +5001,7 @@
                 "id": 3493279,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-17T23:18:49Z",
+                "last_commit": "2026-11-18T16:52:08Z",
                 "open_issues": 2,
                 "owner": "buffer",
                 "repo": "thug",
@@ -5252,7 +5252,7 @@
                 "open_issues": 7,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2256,
+                "stars": 2257,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5642,7 +5642,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4218,
+                "stars": 4219,
                 "topics": [
                   "bro",
                   "easm",
@@ -5968,7 +5968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:10:41.363Z",
+    "last_updated": "2026-11-19T12:04:30.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
@@ -5980,7 +5980,7 @@
       "open_issues": 37,
       "owner": "paralax",
       "repo": "awesome-honeypots",
-      "stars": 10675,
+      "stars": 10677,
       "topics": [
         "awesome",
         "awesome-list",
