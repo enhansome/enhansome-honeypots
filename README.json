@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14460,
+            "stars": 14464,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -666,7 +666,7 @@
                 "open_issues": 12,
                 "owner": "0x4D31",
                 "repo": "galah",
-                "stars": 677,
+                "stars": 678,
                 "topics": [
                   "golang",
                   "honeypot",
@@ -763,11 +763,11 @@
                 "id": 1124476057,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T04:46:15Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-24T05:18:47Z",
+                "open_issues": 10,
                 "owner": "WebDecoy",
                 "repo": "FCaptcha",
-                "stars": 274,
+                "stars": 281,
                 "topics": [
                   "ai-bot-detection",
                   "anti-bot",
@@ -1471,7 +1471,7 @@
                     "id": 1170272795,
                     "language": "PHP",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-11-22T04:55:14Z",
+                    "last_commit": "2026-11-24T03:53:17Z",
                     "open_issues": 1,
                     "owner": "WebDecoy",
                     "repo": "wordpress-plugin",
@@ -1692,11 +1692,11 @@
                 "id": 799870612,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-20T05:29:43Z",
+                "last_commit": "2026-11-23T19:41:55Z",
                 "open_issues": 8,
                 "owner": "0xBallpoint",
                 "repo": "trapster-community",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "ai",
                   "cybersecurity",
@@ -2471,10 +2471,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-23T06:58:35Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "thinkst",
                 "repo": "opencanary",
-                "stars": 3123,
+                "stars": 3125,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -2917,7 +2917,7 @@
                 "id": 54714794,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T23:00:17Z",
+                "last_commit": "2026-11-23T23:26:10Z",
                 "open_issues": 46,
                 "owner": "rabbitstack",
                 "repo": "fibratus",
@@ -3128,7 +3128,7 @@
                 "open_issues": 5,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6457,
+                "stars": 6458,
                 "topics": [
                   "android",
                   "dalvik",
@@ -3184,7 +3184,7 @@
                 "open_issues": 0,
                 "owner": "telekom-security",
                 "repo": "tpotce",
-                "stars": 9748,
+                "stars": 9755,
                 "topics": [
                   "deception",
                   "docker",
@@ -3213,7 +3213,7 @@
                 "open_issues": 12,
                 "owner": "beelzebub-labs",
                 "repo": "beelzebub",
-                "stars": 2254,
+                "stars": 2255,
                 "topics": [
                   "acis",
                   "agentic-ai-security",
@@ -3262,7 +3262,7 @@
                 "open_issues": 14,
                 "owner": "fofapro",
                 "repo": "fapro",
-                "stars": 1613,
+                "stars": 1612,
                 "topics": [
                   "elasticsearch",
                   "ftp",
@@ -4107,11 +4107,11 @@
                 "id": 35494746,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T06:10:33Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-24T08:21:51Z",
+                "open_issues": 61,
                 "owner": "cowrie",
                 "repo": "cowrie",
-                "stars": 6692,
+                "stars": 6695,
                 "topics": [
                   "attacker",
                   "cowrie",
@@ -5142,8 +5142,8 @@
                 "id": 334776528,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T19:43:24Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-24T11:57:29Z",
+                "open_issues": 3,
                 "owner": "SentryPeer",
                 "repo": "SentryPeer",
                 "stars": 212,
@@ -5252,7 +5252,7 @@
                 "open_issues": 5,
                 "owner": "thinkst",
                 "repo": "canarytokens",
-                "stars": 2265,
+                "stars": 2274,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:22.885Z"
@@ -5642,7 +5642,7 @@
                 "open_issues": 52,
                 "owner": "ivre",
                 "repo": "ivre",
-                "stars": 4227,
+                "stars": 4228,
                 "topics": [
                   "bro",
                   "easm",
@@ -5968,7 +5968,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T13:35:16.568Z",
+    "last_updated": "2026-11-24T14:12:41.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "an awesome list of honeypot resources",
